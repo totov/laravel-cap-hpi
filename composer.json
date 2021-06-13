@@ -1,17 +1,17 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "totov/laravel-cap-hpi",
+    "description": "A Laravel implementation of the Cap HPI UK API - https://api.cap-hpi.co.uk/docs/index.html",
     "keywords": [
-        ":vendor_name",
+        "totov",
         "laravel",
-        "package_slug"
+        "laravel-cap-hpi"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/totov/laravel-cap-hpi",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Stephen Hamilton",
+            "email": "stephen@shtc.co.uk",
             "role": "Developer"
         }
     ],
@@ -30,13 +30,13 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src",
-            "VendorName\\Skeleton\\Database\\Factories\\": "database/factories"
+            "Totov\\Cap\\": "src",
+            "Totov\\Cap\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Totov\\Cap\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -50,10 +50,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "VendorName\\Skeleton\\SkeletonServiceProvider"
+                "Totov\\Cap\\CapServiceProvider"
             ],
             "aliases": {
-                "Skeleton": "VendorName\\Skeleton\\SkeletonFacade"
+                "Cap": "Totov\\Cap\\CapFacade"
             }
         }
     },

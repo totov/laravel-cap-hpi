@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Totov\Cap\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CapCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-cap-hpi';
 
     public $description = 'My command';
 
