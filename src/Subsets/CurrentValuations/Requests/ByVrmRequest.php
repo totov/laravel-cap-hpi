@@ -6,9 +6,9 @@ use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
 
-class ByVin extends Request
+class ByVrmRequest extends Request
 {
-    public function __construct(protected string $accessToken, protected string $vin, protected CurrentValuationOptions $options)
+    public function __construct(protected string $accessToken, protected string $vrm, protected CurrentValuationOptions $options)
     {
     }
 
@@ -26,6 +26,6 @@ class ByVin extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/current-valuations";
+        return "https://api.cap-hpi.co.uk/v{$version}/vrms/{$this->vrm}/current-valuations";
     }
 }

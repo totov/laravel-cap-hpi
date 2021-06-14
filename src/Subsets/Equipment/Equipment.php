@@ -3,9 +3,9 @@
 namespace Totov\Cap\Subsets\Equipment;
 
 use Totov\Cap\Subsets\Equipment\Requests\ByDerivativeTypeAndCapIdRequest;
-use Totov\Cap\Subsets\Equipment\Requests\ByVin;
-use Totov\Cap\Subsets\Equipment\Requests\ByVinAndVrm;
-use Totov\Cap\Subsets\Equipment\Requests\ByVrm;
+use Totov\Cap\Subsets\Equipment\Requests\ByVinRequest;
+use Totov\Cap\Subsets\Equipment\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\Equipment\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\Equipment\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subsets\Subset;
@@ -40,7 +40,7 @@ class Equipment extends Subset
     public function byVin(string $vin): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVin($token, $vin))->send();
+        $response = (new ByVinRequest($token, $vin))->send();
 
         return $response->json();
     }
@@ -51,7 +51,7 @@ class Equipment extends Subset
     public function byVrm(string $vrm): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVrm($token, $vrm))->send();
+        $response = (new ByVrmRequest($token, $vrm))->send();
 
         return $response->json();
     }
@@ -62,7 +62,7 @@ class Equipment extends Subset
     public function byVinAndVrm(string $vin, string $vrm): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVinAndVrm($token, $vin, $vrm))->send();
+        $response = (new ByVinAndVrmRequest($token, $vin, $vrm))->send();
 
         return $response->json();
     }

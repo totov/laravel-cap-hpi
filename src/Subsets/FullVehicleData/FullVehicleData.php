@@ -3,9 +3,9 @@
 namespace Totov\Cap\Subsets\FullVehicleData;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\FullVehicleData\Requests\ByVin;
-use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinAndVrm;
-use Totov\Cap\Subsets\FullVehicleData\Requests\ByVrm;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinRequest;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\Subset;
 
 class FullVehicleData extends Subset
@@ -16,7 +16,7 @@ class FullVehicleData extends Subset
     public function byVin(string $vin, ?Options $options = null): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVin($token, $vin, $options))->send();
+        $response = (new ByVinRequest($token, $vin, $options))->send();
 
         return $response->json();
     }
@@ -27,7 +27,7 @@ class FullVehicleData extends Subset
     public function byVrm(string $vrm, ?Options $options = null): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVrm($token, $vrm, $options))->send();
+        $response = (new ByVrmRequest($token, $vrm, $options))->send();
 
         return $response->json();
     }
@@ -38,7 +38,7 @@ class FullVehicleData extends Subset
     public function byVinAndVrm(string $vin, string $vrm, ?Options $options = null): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVinAndVrm($token, $vin, $vrm, $options))->send();
+        $response = (new ByVinAndVrmRequest($token, $vin, $vrm, $options))->send();
 
         return $response->json();
     }

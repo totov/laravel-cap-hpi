@@ -1,11 +1,11 @@
 <?php
 
-namespace Totov\Cap\Subsets\Equipment\Requests;
+namespace Totov\Cap\Subsets\DerivativeDetails\Requests;
 
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 
-class ByVin extends Request
+class ByVinRequest extends Request
 {
     public function __construct(protected string $accessToken, protected string $vin)
     {
@@ -16,6 +16,6 @@ class ByVin extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/derivative/equipment";
+        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/derivative";
     }
 }

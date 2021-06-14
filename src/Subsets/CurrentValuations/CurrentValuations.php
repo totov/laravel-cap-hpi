@@ -4,9 +4,9 @@ namespace Totov\Cap\Subsets\CurrentValuations;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByDerivativeTypeAndCapIdRequest;
-use Totov\Cap\Subsets\CurrentValuations\Requests\ByVin;
-use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinAndVrm;
-use Totov\Cap\Subsets\CurrentValuations\Requests\ByVrm;
+use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinRequest;
+use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\CurrentValuations\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedValuationTypesRequest;
 use Totov\Cap\Subsets\Subset;
@@ -30,7 +30,7 @@ class CurrentValuations extends Subset
     public function byVin(string $vin, CurrentValuationOptions $options): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVin($token, $vin, $options))->send();
+        $response = (new ByVinRequest($token, $vin, $options))->send();
 
         return $response->json();
     }
@@ -41,7 +41,7 @@ class CurrentValuations extends Subset
     public function byVrm(string $vrm, CurrentValuationOptions $options): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVrm($token, $vrm, $options))->send();
+        $response = (new ByVrmRequest($token, $vrm, $options))->send();
 
         return $response->json();
     }
@@ -52,7 +52,7 @@ class CurrentValuations extends Subset
     public function byVinAndVrm(string $vin, string $vrm, CurrentValuationOptions $options): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByVinAndVrm($token, $vin, $vrm, $options))->send();
+        $response = (new ByVinAndVrmRequest($token, $vin, $vrm, $options))->send();
 
         return $response->json();
     }

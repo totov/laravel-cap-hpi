@@ -8,9 +8,9 @@ use Totov\Cap\Requests\Request;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
 use Totov\Cap\Subsets\FullVehicleData\Options;
 
-class ByVrm extends Request
+class ByVinAndVrmRequest extends Request
 {
-    public function __construct(protected string $accessToken, protected string $vrm, protected ?Options $options)
+    public function __construct(protected string $accessToken, protected string $vin, protected string $vrm, protected ?Options $options)
     {
         if (! $this->options) {
             $this->options = new Options(
@@ -22,7 +22,7 @@ class ByVrm extends Request
 
     protected function contentType(): string
     {
-        return  'application/json';
+        return 'application/json';
     }
 
     protected function body(): string
@@ -34,6 +34,6 @@ class ByVrm extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/vrms/{$this->vrm}/data";
+        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/vrms/{$this->vrm}/data";
     }
 }

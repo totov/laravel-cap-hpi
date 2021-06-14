@@ -8,7 +8,7 @@ use Totov\Cap\Requests\Request;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
 use Totov\Cap\Subsets\FullVehicleData\Options;
 
-class ByVin extends Request
+class ByVinRequest extends Request
 {
     public function __construct(protected string $accessToken, protected string $vin, protected ?Options $options)
     {
