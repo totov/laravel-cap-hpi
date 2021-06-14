@@ -16,6 +16,7 @@ composer require totov/laravel-cap-hpi
 ```
 
 You can publish the config file with:
+
 ```bash
 php artisan vendor:publish --provider="Totov\Cap\CapServiceProvider" --tag="laravel-cap-hpi-config"
 ```
@@ -32,7 +33,27 @@ return [
 ## Usage
 
 ```php
+// Initialise cap with client ID and secret
+$clientId = config('cap.client_id');
+$secret = config('cap.secret');
+$cap = new \Totov\Cap\Cap($clientId, $secret);
 
+// Or grab from the container which automatically grabs the config and creates a singleton
+$cap = app(\Totov\Cap\Cap::class);
+
+// Get current API version and status
+$version = $cap->version();
+$status = \Totov\Cap\Cap::status();
+
+// Get full vehicle data by VRM
+$currentPoints = new \Totov\Cap\CurrentValuationRequest(['TradeClean'], [['mileage' => 20000]]);
+$futurePoints = new \Totov\Cap\FutureValuationRequest(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
+$options = new \Totov\Cap\FullVehicleData\Options($currentPoints, $futurePoints);
+
+$cap->fullVehicleData->byVrm('AB12CDE', $options);
+
+// Look up equipment by VRM
+$cap->equipment->byVrm('AB12CDE');
 ```
 
 ## Testing

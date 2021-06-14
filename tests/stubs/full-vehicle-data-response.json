@@ -1,0 +1,627 @@
+{
+    "currentValuations": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "derivativeType": "Car",
+        "capId": 66181,
+        "registrationDate": "2016-07-13",
+        "plate": {
+            "year": 2016,
+            "month": 3
+        },
+        "valuations": [
+            {
+                "valuationType": "TradeClean",
+                "valuationPoints": [
+                    {
+                        "mileage": 10000,
+                        "mileageAdjusted": false,
+                        "message": null,
+                        "publicationDate": "2021-06-10",
+                        "value": 6300,
+                        "upperValue": null,
+                        "lowerValue": null
+                    }
+                ]
+            }
+        ],
+        "valuationTypes": [
+            "TradeClean"
+        ],
+        "errors": []
+    },
+    "futureValuations": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "derivativeType": "Car",
+        "capId": 66181,
+        "registrationDate": "2016-07-13",
+        "plate": {
+            "year": 2016,
+            "month": 3
+        },
+        "valuations": [
+            {
+                "valuationType": "TradeClean",
+                "valuationPoints": [
+                    {
+                        "mileage": 25000,
+                        "publicationDate": "2021-06-01",
+                        "valuationDate": "2021-12-14",
+                        "value": 5050
+                    }
+                ]
+            }
+        ],
+        "valuationTypes": [
+            "TradeClean"
+        ],
+        "errors": []
+    },
+    "derivativeDetails": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "derivativeType": "Car",
+        "capId": 66181,
+        "capCode": "VACO14LIM3HPIM  5   ",
+        "name": "1.4 Limited Edition 3dr",
+        "brand": {
+            "id": 10968,
+            "name": "VAUXHALL"
+        },
+        "range": {
+            "id": 208,
+            "name": "CORSA"
+        },
+        "model": {
+            "id": 70728,
+            "name": "CORSA HATCHBACK SPECIAL EDS",
+            "introducedYear": 2014,
+            "discontinuedYear": 2019
+        },
+        "bodyStyle": {
+            "code": "H",
+            "name": "Hatchback"
+        },
+        "trim": {
+            "id": 25731,
+            "name": "Limited Edition"
+        },
+        "fuelType": {
+            "code": "P",
+            "name": "Petrol"
+        },
+        "fuelDelivery": {
+            "code": "I",
+            "name": "Injection"
+        },
+        "driveTrain": {
+            "code": "F",
+            "name": "Front Wheel Drive"
+        },
+        "changes": [
+            {
+                "date": "2018-04-23",
+                "modelYear": true,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2018-04-02",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-12-19",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-12-01",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-11-24",
+                "modelYear": true,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-09-01",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-06-16",
+                "modelYear": true,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2017-02-13",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-11-11",
+                "modelYear": true,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": true
+            },
+            {
+                "date": "2016-10-04",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-07-01",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-06-22",
+                "modelYear": true,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": true
+            },
+            {
+                "date": "2016-04-15",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-04-01",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-03-01",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2016-01-18",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-12-01",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": true
+            },
+            {
+                "date": "2015-11-23",
+                "modelYear": true,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-10-08",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-08-22",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-07-10",
+                "modelYear": true,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-04-08",
+                "modelYear": false,
+                "price": true,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-02-24",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-02-04",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2015-01-09",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2014-12-23",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": false
+            },
+            {
+                "date": "2014-10-31",
+                "modelYear": false,
+                "price": false,
+                "standardEquipment": false,
+                "optionalEquipment": false,
+                "technicalData": true
+            },
+            {
+                "date": "2014-10-02",
+                "modelYear": true,
+                "price": true,
+                "standardEquipment": true,
+                "optionalEquipment": false,
+                "technicalData": true
+            }
+        ],
+        "dates": {
+            "introduced": "2014-10-02",
+            "discontinued": "2018-04-23",
+            "runOutDate": "2018-10-31"
+        },
+        "modelYears": [
+            {
+                "effectiveFrom": "2014-10-02",
+                "effectiveTo": "2015-07-10",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2015-07-10",
+                "effectiveTo": "2015-11-23",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2015-11-23",
+                "effectiveTo": "2016-06-22",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2016-06-22",
+                "effectiveTo": "2016-11-11",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2016-11-11",
+                "effectiveTo": "2017-06-16",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2017-06-16",
+                "effectiveTo": "2017-11-24",
+                "imageId": 21958,
+                "name": null
+            },
+            {
+                "effectiveFrom": "2017-11-24",
+                "effectiveTo": "2018-04-23",
+                "imageId": 21958,
+                "name": null
+            }
+        ],
+        "numberOfDoors": 3,
+        "numberOfSeats": 5,
+        "links": [],
+        "errors": []
+    },
+    "checkFlags": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "resultOk": true,
+        "checks": {
+            "annotationsAvailable": true,
+            "capCodeAvailable": true,
+            "conditionInspected": false,
+            "finance": false,
+            "importantDvlaInformation": false,
+            "plateTransfer": true,
+            "security": false,
+            "stolen": false,
+            "valuationAvailable": true,
+            "insuranceWriteOffDamaged": false,
+            "insuranceWriteOffStolen": false
+        },
+        "links": null,
+        "errors": []
+    },
+    "vehicleDetails": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "description": {
+            "source": "DVLA",
+            "brand": "VAUXHALL",
+            "model": "CORSA LIMITED EDITION ECO",
+            "body": "3 Door Hatchback",
+            "name": "VAUXHALL CORSA LIMITED EDITION ECO"
+        },
+        "co2Rating": 120,
+        "colours": {
+            "current": {
+                "code": "P",
+                "name": "BLACK"
+            },
+            "lastColourChangeDate": null,
+            "lastPrevious": null,
+            "numberOfPreviousColours": 0,
+            "original": null,
+            "previous": null
+        },
+        "dates": {
+            "disposal": null,
+            "lastSold": "2019-07-12",
+            "manufactured": "2016-07-13",
+            "scrapped": null,
+            "v5IssueDate": null
+        },
+        "engineNumber": "B14XER -19NB8564LDD",
+        "export": {
+            "export": null,
+            "isExported": false
+        },
+        "firstRegistration": {
+            "firstRegisteredCountryCode": null,
+            "firstRegistrationDate": "2016-07-13",
+            "ukFirstRegistrationDate": "2016-07-13",
+            "usedBeforeRegistration": false
+        },
+        "import": {
+            "isImported": false,
+            "northernIrelandImportDate": null
+        },
+        "previousKeepers": {
+            "numberOfPreviousKeepers": 2,
+            "previousKeeperAcquiredDate": "2017-12-11",
+            "previousKeeperDisposalDate": "2019-06-29"
+        },
+        "scrap": {
+            "isScrapRemoved": false,
+            "isScrapped": false,
+            "scrapDate": null
+        },
+        "links": [
+            {
+                "href": "/v1/vrms/SW16UPB/derivative",
+                "rel": "derivative-details"
+            },
+            {
+                "href": "/v1/vrms/SW16UPB/checks",
+                "rel": "vehicle-check-flags"
+            },
+            {
+                "href": "/v1/vrms/SW16UPB/dvla",
+                "rel": "vehicle-dvla"
+            },
+            {
+                "href": "/v1/vrms/SW16UPB/smmt",
+                "rel": "vehicle-smmt"
+            }
+        ],
+        "errors": []
+    },
+    "dvla": {
+        "code": "13",
+        "description": "3 Door Hatchback",
+        "colour": {
+            "numberOfPreviousColours": 0,
+            "current": {
+                "code": "P",
+                "description": "BLACK",
+                "dateChanged": null
+            },
+            "previous": null,
+            "original": null
+        },
+        "wheelPlan": {
+            "code": "C",
+            "description": "2 Axle Rigid Body"
+        },
+        "weight": 0,
+        "isFromNorthernIreland": false,
+        "scrapped": null,
+        "exported": {
+            "isExported": false,
+            "date": null
+        },
+        "errors": []
+    },
+    "smmt": {
+        "dvla": {
+            "make": "DG",
+            "model": "713"
+        },
+        "mvris": {
+            "make": "D0",
+            "model": "JUC"
+        },
+        "dates": {
+            "introduction": "2016-01-01T00:00:00",
+            "visibility": "2016-01-15T00:00:00",
+            "modelVariantTermination": null
+        },
+        "identitification": {
+            "marqueDescription": "VAUXHALL",
+            "marketSectorCode": "AA",
+            "rangeDescription": "CORSA (4500)",
+            "modelVariantName": "LIMITED EDITION ECOFLEX",
+            "seriesDescription": "4500"
+        },
+        "engine": {
+            "normalCc": 1.4,
+            "engineCc": 1398,
+            "location": "FRONT",
+            "make": "VAUXHALL",
+            "bore": 73.0,
+            "stroke": 83.0,
+            "aspiration": "NATURALLY ASPIRATED",
+            "cylinderArrangement": "INLINE",
+            "numberOfCylinders": 4,
+            "numberOfValvesPerCylinder": 4,
+            "valveGear": "DOHC",
+            "modelDescription": "B14XEL-A"
+        },
+        "driveTrain": {
+            "type": "4X2",
+            "drivingAxle": "FRONT",
+            "numberOfAxles": 2,
+            "powerDelivery": "NORMAL"
+        },
+        "weight": {
+            "grossCombined": null,
+            "grossTrain": null,
+            "grossVehicle": 1600,
+            "kerbWeight": 1080,
+            "unladen": null
+        },
+        "body": {
+            "bodyShape": "NA",
+            "bodyStyle": "HATCHBACK",
+            "height": 1479,
+            "length": 4020,
+            "loadLength": null,
+            "wheelBase": "SHORT WHEELBASE",
+            "width": 1944,
+            "numberOfDoors": 3,
+            "cabType": "NA"
+        },
+        "numberOfSeats": 5,
+        "payload": {
+            "volume": null,
+            "weight": null
+        },
+        "chassis": {
+            "rigidArtic": "RIGID"
+        },
+        "typeApprovalCategory": "M1",
+        "euroStatus": 6,
+        "counrtyOfOrigin": "GERMANY",
+        "transmission": {
+            "type": "MANUAL",
+            "numberOfGears": 5
+        },
+        "fuelType": "PETROL",
+        "numberOfTechnicalRecords": 1,
+        "errors": []
+    },
+    "keepers": {
+        "vin": "W0L0XEP08G6100132",
+        "vrm": "SW16UPB",
+        "lastChangeOfKeeperDate": "2017-12-11",
+        "previousKeepers": null,
+        "numberOfPreviousKeepers": 2,
+        "firstRegistrationDate": "2016-07-13",
+        "ukFirstRegistrationDate": "2016-07-13",
+        "errors": []
+    },
+    "plateTransfer": {
+        "isPlateTransfer": true,
+        "errors": []
+    },
+    "securityWatch": {
+        "totalVrmReadings": 0,
+        "totalVinReadings": 0,
+        "telephone": null,
+        "errors": [
+            {
+                "type": "data_not_available",
+                "message": "Sorry, vehicle security watch data is currently unavailable. We are already aware of this, please try again soon.",
+                "detail": null
+            }
+        ]
+    },
+    "stolen": {
+        "incidents": [],
+        "errors": []
+    },
+    "finance": {
+        "agreements": [],
+        "errors": []
+    },
+    "insuranceWriteOffDamaged": {
+        "incidents": [],
+        "errors": []
+    },
+    "insuranceRoadworthyInspected": {
+        "inspections": [],
+        "errors": []
+    },
+    "insuranceWriteOffStolen": {
+        "incidents": [],
+        "errors": []
+    },
+    "errors": []
+}

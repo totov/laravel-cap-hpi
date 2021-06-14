@@ -5,6 +5,7 @@ namespace Totov\Cap;
 use Carbon\Carbon;
 use Totov\Cap\Equipment\Equipment;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
+use Totov\Cap\FullVehicleData\FullVehicleData;
 use Totov\Cap\Requests\AuthoriseRequest;
 use Totov\Cap\Requests\ErrorsRequest;
 use Totov\Cap\Requests\ProductsRequest;
@@ -19,6 +20,7 @@ class Cap
     public const VERSION = '1';
 
     public Equipment $equipment;
+    public FullVehicleData $fullVehicleData;
 
     /**
      * @throws AuthorisationFailedException
@@ -28,6 +30,7 @@ class Cap
         $this->tokenExpiresAt = now();
 
         $this->equipment = new Equipment($this);
+        $this->fullVehicleData = new FullVehicleData($this);
     }
 
     /**

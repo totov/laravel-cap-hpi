@@ -20,9 +20,14 @@ abstract class Request
         return '';
     }
 
+    protected function contentType(): string
+    {
+        return 'application/x-www-form-urlencoded';
+    }
+
     public function send(): Response
     {
-        $request = Http::withBody($this->body(), 'application/x-www-form-urlencoded');
+        $request = Http::withBody($this->body(), $this->contentType());
 
         if ($this->accessToken) {
             $request->withToken($this->accessToken);
