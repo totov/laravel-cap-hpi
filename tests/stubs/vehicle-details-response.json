@@ -1,66 +1,5 @@
 {
-    "currentValuations": {
-        "vin": "",
-        "vrm": "",
-        "derivativeType": "Car",
-        "capId": 0,
-        "registrationDate": "2016-07-13",
-        "plate": {
-            "year": 2016,
-            "month": 3
-        },
-        "valuations": [
-            {
-                "valuationType": "TradeClean",
-                "valuationPoints": [
-                    {
-                        "mileage": 10000,
-                        "mileageAdjusted": false,
-                        "message": null,
-                        "publicationDate": "2021-06-10",
-                        "value": 6300,
-                        "upperValue": null,
-                        "lowerValue": null
-                    }
-                ]
-            }
-        ],
-        "valuationTypes": [
-            "TradeClean"
-        ],
-        "errors": []
-    },
-    "futureValuations": {
-        "vin": "",
-        "vrm": "",
-        "derivativeType": "Car",
-        "capId": 0,
-        "registrationDate": "2016-07-13",
-        "plate": {
-            "year": 2016,
-            "month": 3
-        },
-        "valuations": [
-            {
-                "valuationType": "TradeClean",
-                "valuationPoints": [
-                    {
-                        "mileage": 25000,
-                        "publicationDate": "2021-06-01",
-                        "valuationDate": "2021-12-14",
-                        "value": 5050
-                    }
-                ]
-            }
-        ],
-        "valuationTypes": [
-            "TradeClean"
-        ],
-        "errors": []
-    },
-    "derivativeDetails": {
-        "vin": "",
-        "vrm": "",
+    "derivative": {
         "derivativeType": "Car",
         "capId": 0,
         "capCode": "",
@@ -379,249 +318,76 @@
         "links": [],
         "errors": []
     },
-    "checkFlags": {
-        "vin": "",
-        "vrm": "",
-        "resultOk": true,
-        "checks": {
-            "annotationsAvailable": true,
-            "capCodeAvailable": true,
-            "conditionInspected": false,
-            "finance": false,
-            "importantDvlaInformation": false,
-            "plateTransfer": true,
-            "security": false,
-            "stolen": false,
-            "valuationAvailable": true,
-            "insuranceWriteOffDamaged": false,
-            "insuranceWriteOffStolen": false
-        },
-        "links": null,
-        "errors": []
+    "vin": "",
+    "vrm": "",
+    "description": {
+        "source": "CapHpi",
+        "brand": "VAUXHALL",
+        "model": "CORSA HATCHBACK SPECIAL EDS",
+        "body": "Hatchback",
+        "name": "VAUXHALL CORSA HATCHBACK SPECIAL EDS"
     },
-    "vehicleDetails": {
-        "vin": "",
-        "vrm": "",
-        "description": {
-            "source": "DVLA",
-            "brand": "VAUXHALL",
-            "model": "CORSA LIMITED EDITION ECO",
-            "body": "3 Door Hatchback",
-            "name": "VAUXHALL CORSA LIMITED EDITION ECO"
+    "co2Rating": 120,
+    "colours": {
+        "current": {
+            "code": "P",
+            "name": "BLACK"
         },
-        "co2Rating": 120,
-        "colours": {
-            "current": {
-                "code": "P",
-                "name": "BLACK"
-            },
-            "lastColourChangeDate": null,
-            "lastPrevious": null,
-            "numberOfPreviousColours": 0,
-            "original": null,
-            "previous": null
-        },
-        "dates": {
-            "disposal": null,
-            "lastSold": "2019-07-12",
-            "manufactured": "2016-07-13",
-            "scrapped": null,
-            "v5IssueDate": null
-        },
-        "engineNumber": "",
-        "export": {
-            "export": null,
-            "isExported": false
-        },
-        "firstRegistration": {
-            "firstRegisteredCountryCode": null,
-            "firstRegistrationDate": "2016-07-13",
-            "ukFirstRegistrationDate": "2016-07-13",
-            "usedBeforeRegistration": false
-        },
-        "import": {
-            "isImported": false,
-            "northernIrelandImportDate": null
-        },
-        "previousKeepers": {
-            "numberOfPreviousKeepers": 2,
-            "previousKeeperAcquiredDate": "2017-12-11",
-            "previousKeeperDisposalDate": "2019-06-29"
-        },
-        "scrap": {
-            "isScrapRemoved": false,
-            "isScrapped": false,
-            "scrapDate": null
-        },
-        "links": [
-            {
-                "href": "/v1/vrms/SW16UPB/derivative",
-                "rel": "derivative-details"
-            },
-            {
-                "href": "/v1/vrms/SW16UPB/checks",
-                "rel": "vehicle-check-flags"
-            },
-            {
-                "href": "/v1/vrms/SW16UPB/dvla",
-                "rel": "vehicle-dvla"
-            },
-            {
-                "href": "/v1/vrms/SW16UPB/smmt",
-                "rel": "vehicle-smmt"
-            }
-        ],
-        "errors": []
+        "lastColourChangeDate": null,
+        "lastPrevious": null,
+        "numberOfPreviousColours": 0,
+        "original": null,
+        "previous": null
     },
-    "dvla": {
-        "code": "13",
-        "description": "3 Door Hatchback",
-        "colour": {
-            "numberOfPreviousColours": 0,
-            "current": {
-                "code": "P",
-                "description": "BLACK",
-                "dateChanged": null
-            },
-            "previous": null,
-            "original": null
-        },
-        "wheelPlan": {
-            "code": "C",
-            "description": "2 Axle Rigid Body"
-        },
-        "weight": 0,
-        "isFromNorthernIreland": false,
+    "dates": {
+        "disposal": null,
+        "lastSold": "2019-07-12",
+        "manufactured": "2016-07-13",
         "scrapped": null,
-        "exported": {
-            "isExported": false,
-            "date": null
-        },
-        "errors": []
+        "v5IssueDate": null
     },
-    "smmt": {
-        "dvla": {
-            "make": "DG",
-            "model": "713"
-        },
-        "mvris": {
-            "make": "D0",
-            "model": "JUC"
-        },
-        "dates": {
-            "introduction": "2016-01-01T00:00:00",
-            "visibility": "2016-01-15T00:00:00",
-            "modelVariantTermination": null
-        },
-        "identitification": {
-            "marqueDescription": "VAUXHALL",
-            "marketSectorCode": "AA",
-            "rangeDescription": "CORSA (4500)",
-            "modelVariantName": "LIMITED EDITION ECOFLEX",
-            "seriesDescription": "4500"
-        },
-        "engine": {
-            "normalCc": 1.4,
-            "engineCc": 1398,
-            "location": "FRONT",
-            "make": "VAUXHALL",
-            "bore": 73.0,
-            "stroke": 83.0,
-            "aspiration": "NATURALLY ASPIRATED",
-            "cylinderArrangement": "INLINE",
-            "numberOfCylinders": 4,
-            "numberOfValvesPerCylinder": 4,
-            "valveGear": "DOHC",
-            "modelDescription": "B14XEL-A"
-        },
-        "driveTrain": {
-            "type": "4X2",
-            "drivingAxle": "FRONT",
-            "numberOfAxles": 2,
-            "powerDelivery": "NORMAL"
-        },
-        "weight": {
-            "grossCombined": null,
-            "grossTrain": null,
-            "grossVehicle": 1600,
-            "kerbWeight": 1080,
-            "unladen": null
-        },
-        "body": {
-            "bodyShape": "NA",
-            "bodyStyle": "HATCHBACK",
-            "height": 1479,
-            "length": 4020,
-            "loadLength": null,
-            "wheelBase": "SHORT WHEELBASE",
-            "width": 1944,
-            "numberOfDoors": 3,
-            "cabType": "NA"
-        },
-        "numberOfSeats": 5,
-        "payload": {
-            "volume": null,
-            "weight": null
-        },
-        "chassis": {
-            "rigidArtic": "RIGID"
-        },
-        "typeApprovalCategory": "M1",
-        "euroStatus": 6,
-        "counrtyOfOrigin": "GERMANY",
-        "transmission": {
-            "type": "MANUAL",
-            "numberOfGears": 5
-        },
-        "fuelType": "PETROL",
-        "numberOfTechnicalRecords": 1,
-        "errors": []
+    "engineNumber": "",
+    "export": {
+        "export": null,
+        "isExported": false
     },
-    "keepers": {
-        "vin": "",
-        "vrm": "",
-        "lastChangeOfKeeperDate": "2017-12-11",
-        "previousKeepers": null,
-        "numberOfPreviousKeepers": 2,
+    "firstRegistration": {
+        "firstRegisteredCountryCode": null,
         "firstRegistrationDate": "2016-07-13",
         "ukFirstRegistrationDate": "2016-07-13",
-        "errors": []
+        "usedBeforeRegistration": false
     },
-    "plateTransfer": {
-        "isPlateTransfer": true,
-        "errors": []
+    "import": {
+        "isImported": false,
+        "northernIrelandImportDate": null
     },
-    "securityWatch": {
-        "totalVrmReadings": 0,
-        "totalVinReadings": 0,
-        "telephone": null,
-        "errors": [
-            {
-                "type": "data_not_available",
-                "message": "Sorry, vehicle security watch data is currently unavailable. We are already aware of this, please try again soon.",
-                "detail": null
-            }
-        ]
+    "previousKeepers": {
+        "numberOfPreviousKeepers": 2,
+        "previousKeeperAcquiredDate": "2017-12-11",
+        "previousKeeperDisposalDate": "2019-06-29"
     },
-    "stolen": {
-        "incidents": [],
-        "errors": []
+    "scrap": {
+        "isScrapRemoved": false,
+        "isScrapped": false,
+        "scrapDate": null
     },
-    "finance": {
-        "agreements": [],
-        "errors": []
-    },
-    "insuranceWriteOffDamaged": {
-        "incidents": [],
-        "errors": []
-    },
-    "insuranceRoadworthyInspected": {
-        "inspections": [],
-        "errors": []
-    },
-    "insuranceWriteOffStolen": {
-        "incidents": [],
-        "errors": []
-    },
+    "links": [
+        {
+            "href": "/v1/vrms/SW16UPB/derivative",
+            "rel": "derivative-details"
+        },
+        {
+            "href": "/v1/vrms/SW16UPB/checks",
+            "rel": "vehicle-check-flags"
+        },
+        {
+            "href": "/v1/vrms/SW16UPB/dvla",
+            "rel": "vehicle-dvla"
+        },
+        {
+            "href": "/v1/vrms/SW16UPB/smmt",
+            "rel": "vehicle-smmt"
+        }
+    ],
     "errors": []
 }

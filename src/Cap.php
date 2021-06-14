@@ -13,6 +13,7 @@ use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
 use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
+use Totov\Cap\Subsets\VehicleDetails\VehicleDetails;
 
 class Cap
 {
@@ -25,10 +26,8 @@ class Cap
     public FullVehicleData $fullVehicleData;
     public CurrentValuations $currentValuations;
     public DerivativeDetails $derivativeDetails;
+    public VehicleDetails $vehicleDetails;
 
-    /**
-     * @throws AuthorisationFailedException
-     */
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
         $this->tokenExpiresAt = now();
@@ -37,6 +36,7 @@ class Cap
         $this->fullVehicleData = new FullVehicleData($this);
         $this->currentValuations = new CurrentValuations($this);
         $this->derivativeDetails = new DerivativeDetails($this);
+        $this->vehicleDetails = new VehicleDetails($this);
     }
 
     /**

@@ -61,6 +61,9 @@ $cap->equipment->byVrm('AB12CDE');
 
 // Look up derivative details by VRM
 $cap->derivativeDetails->byVrm('AB12CDE');
+
+// Get vehicle details by VRM
+$cap->vehicleDetails->byVrm('AB12CDE');
 ```
 
 ## Testing
