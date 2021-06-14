@@ -1,8 +1,8 @@
 <?php
 
-namespace Totov\Cap;
+namespace Totov\Cap\Subsets\CurrentValuations;
 
-class FutureValuationRequest
+class CurrentValuationOptions
 {
     public function __construct(public array $valuationTypes = [], public array $valuationPoints = [])
     {

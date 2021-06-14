@@ -6,6 +6,7 @@ use Carbon\Carbon;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
 use Totov\Cap\Requests\AuthoriseRequest;
 use Totov\Cap\Requests\ErrorsRequest;
 use Totov\Cap\Requests\ProductsRequest;
@@ -21,6 +22,7 @@ class Cap
 
     public Equipment $equipment;
     public FullVehicleData $fullVehicleData;
+    public CurrentValuations $currentValuations;
 
     /**
      * @throws AuthorisationFailedException
@@ -31,6 +33,7 @@ class Cap
 
         $this->equipment = new Equipment($this);
         $this->fullVehicleData = new FullVehicleData($this);
+        $this->currentValuations = new CurrentValuations($this);
     }
 
     /**

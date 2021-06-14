@@ -46,11 +46,15 @@ $version = $cap->version();
 $status = \Totov\Cap\Cap::status();
 
 // Get full vehicle data by VRM
-$currentPoints = new \Totov\Cap\CurrentValuationRequest(['TradeClean'], [['mileage' => 20000]]);
-$futurePoints = new \Totov\Cap\FutureValuationRequest(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
-$options = new \Totov\Cap\FullVehicleData\Options($currentPoints, $futurePoints);
+$currentPoints = new \Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
+$futurePoints = new \Totov\Cap\FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
+$options = new \Totov\Cap\Subsets\FullVehicleData\Options($currentPoints, $futurePoints);
 
 $cap->fullVehicleData->byVrm('AB12CDE', $options);
+
+// Look up current valuation by VRM
+$options = new \Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
+$cap->currentValuations->byVrm('AB12CDE', $options);
 
 // Look up equipment by VRM
 $cap->equipment->byVrm('AB12CDE');

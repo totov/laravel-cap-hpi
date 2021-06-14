@@ -2,8 +2,8 @@
 
 namespace Totov\Cap\Subsets\FullVehicleData;
 
-use Totov\Cap\CurrentValuationRequest;
-use Totov\Cap\FutureValuationRequest;
+use Totov\Cap\FutureValuationOptions;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
 
 class Options
 {
@@ -23,7 +23,7 @@ class Options
     public $insuranceWriteOffDamaged = true;
     public $insuranceRoadworthyInspected = true;
 
-    public function __construct(public ?CurrentValuationRequest $currentValuationRequest, public ?FutureValuationRequest $futureValuationRequest)
+    public function __construct(public ?CurrentValuationOptions $currentValuationRequest, public ?FutureValuationOptions $futureValuationRequest)
     {
     }
 }

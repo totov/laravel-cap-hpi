@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\FullVehicleData\Requests;
 
 use Totov\Cap\Cap;
-use Totov\Cap\CurrentValuationRequest;
-use Totov\Cap\Subsets\FullVehicleData\Options;
-use Totov\Cap\FutureValuationRequest;
+use Totov\Cap\FutureValuationOptions;
 use Totov\Cap\Requests\Request;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
+use Totov\Cap\Subsets\FullVehicleData\Options;
 
 class ByVinAndVrm extends Request
 {
@@ -14,8 +14,8 @@ class ByVinAndVrm extends Request
     {
         if (! $this->options) {
             $this->options = new Options(
-                new CurrentValuationRequest(),
-                new FutureValuationRequest()
+                new CurrentValuationOptions(),
+                new FutureValuationOptions()
             );
         }
     }
