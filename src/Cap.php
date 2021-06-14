@@ -4,15 +4,15 @@ namespace Totov\Cap;
 
 use Carbon\Carbon;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
-use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
-use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
 use Totov\Cap\Requests\AuthoriseRequest;
 use Totov\Cap\Requests\ErrorsRequest;
 use Totov\Cap\Requests\ProductsRequest;
 use Totov\Cap\Requests\StatusRequest;
 use Totov\Cap\Requests\VersionRequest;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
+use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
 use Totov\Cap\Subsets\Equipment\Equipment;
+use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
 
 class Cap
 {

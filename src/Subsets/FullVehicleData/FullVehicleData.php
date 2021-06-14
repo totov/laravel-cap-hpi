@@ -3,8 +3,8 @@
 namespace Totov\Cap\Subsets\FullVehicleData;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinRequest;
 use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinRequest;
 use Totov\Cap\Subsets\FullVehicleData\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\Subset;
 

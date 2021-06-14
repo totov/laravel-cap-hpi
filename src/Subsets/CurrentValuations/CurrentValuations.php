@@ -4,8 +4,8 @@ namespace Totov\Cap\Subsets\CurrentValuations;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByDerivativeTypeAndCapIdRequest;
-use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedValuationTypesRequest;

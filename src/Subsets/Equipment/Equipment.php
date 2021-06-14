@@ -4,8 +4,8 @@ namespace Totov\Cap\Subsets\Equipment;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subsets\Equipment\Requests\ByDerivativeTypeAndCapIdRequest;
-use Totov\Cap\Subsets\Equipment\Requests\ByVinRequest;
 use Totov\Cap\Subsets\Equipment\Requests\ByVinAndVrmRequest;
+use Totov\Cap\Subsets\Equipment\Requests\ByVinRequest;
 use Totov\Cap\Subsets\Equipment\Requests\ByVrmRequest;
 use Totov\Cap\Subsets\Equipment\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Subsets\Subset;
