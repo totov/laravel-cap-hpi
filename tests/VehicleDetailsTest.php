@@ -33,6 +33,7 @@ class VehicleDetailsTest extends TestCase
                 Http::response(File::get('tests/stubs/vehicle-details-response.json'), 200),
         ]);
     }
+
     /** @test */
     public function by_vin_lookup_test(): void
     {
