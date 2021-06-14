@@ -1,0 +1,22 @@
+[
+    {
+        "code": "TradeClean",
+        "description": "The typical value for a good condition derivative in a trade setting"
+    },
+    {
+        "code": "TradeAverage",
+        "description": "The typical value for an average condition derivative in a trade setting"
+    },
+    {
+        "code": "TradeBelow",
+        "description": "The typical value for a below-average condition derivative in a trade setting"
+    },
+    {
+        "code": "RetailAdvertised",
+        "description": "The typical advertised price for a derivative in a retail setting"
+    },
+    {
+        "code": "RetailTransacted",
+        "description": "The value for which a derivative is typically sold for in a retail setting"
+    }
+]

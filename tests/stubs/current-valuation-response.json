@@ -1,0 +1,31 @@
+{
+    "vin": "W0L0XEP08G6100132",
+    "vrm": "SW16UPB",
+    "derivativeType": "Car",
+    "capId": 66181,
+    "registrationDate": "2016-07-13",
+    "plate": {
+        "year": 2016,
+        "month": 3
+    },
+    "valuations": [
+        {
+            "valuationType": "RetailTransacted",
+            "valuationPoints": [
+                {
+                    "mileage": 20000,
+                    "mileageAdjusted": false,
+                    "message": null,
+                    "publicationDate": "2021-06-10",
+                    "value": 6850,
+                    "upperValue": null,
+                    "lowerValue": null
+                }
+            ]
+        }
+    ],
+    "valuationTypes": [
+        "RetailTransacted"
+    ],
+    "errors": []
+}

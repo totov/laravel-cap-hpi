@@ -7,6 +7,8 @@ use Totov\Cap\Subsets\CurrentValuations\Requests\ByDerivativeTypeAndCapIdRequest
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByVin;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByVinAndVrm;
 use Totov\Cap\Subsets\CurrentValuations\Requests\ByVrm;
+use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedDerivativeTypesRequest;
+use Totov\Cap\Subsets\CurrentValuations\Requests\SupportedValuationTypesRequest;
 use Totov\Cap\Subsets\Subset;
 
 class CurrentValuations extends Subset
@@ -51,6 +53,28 @@ class CurrentValuations extends Subset
     {
         $token = $this->cap->getValidToken();
         $response = (new ByVinAndVrm($token, $vin, $vrm, $options))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function supportedDerivativeTypes(): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new SupportedDerivativeTypesRequest($token))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function supportedValuationTypes(): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new SupportedValuationTypesRequest($token))->send();
 
         return $response->json();
     }
