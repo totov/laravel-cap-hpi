@@ -15,7 +15,7 @@ class AuthoriseRequestTest extends TestCase
 
         Http::fake([
             'https://identity.cap-hpi.com/connect/token' =>
-                Http::response(["access_token" => $token, "expires_in" => "3600"], 200)
+                Http::response(["access_token" => $token, "expires_in" => "3600"], 200),
         ]);
 
         $cap = new Cap(null, null);
@@ -27,7 +27,7 @@ class AuthoriseRequestTest extends TestCase
     {
         Http::fake([
             'https://identity.cap-hpi.com/connect/token' =>
-                Http::response(["error" => "invalid_client"], 400)
+                Http::response(["error" => "invalid_client"], 400),
         ]);
 
         $this->expectException(AuthorisationFailedException::class);

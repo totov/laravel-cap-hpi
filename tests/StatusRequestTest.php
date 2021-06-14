@@ -12,7 +12,7 @@ class StatusRequestTest extends TestCase
     {
         Http::fake([
             'https://api.cap-hpi.co.uk/health' =>
-                Http::response(["status" => "UP"], 200)
+                Http::response(["status" => "UP"], 200),
         ]);
 
         $status = Cap::status();
@@ -24,7 +24,7 @@ class StatusRequestTest extends TestCase
     {
         Http::fake([
             'https://api.cap-hpi.co.uk/healthz' =>
-                Http::response(["status" => "UP"], 200)
+                Http::response(["status" => "UP"], 200),
         ]);
 
         $status = Cap::status(true);

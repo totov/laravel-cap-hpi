@@ -28,7 +28,6 @@ class Cap
         $this->authorise();
 
         $this->equipment = new Equipment($this);
-
     }
 
     /**

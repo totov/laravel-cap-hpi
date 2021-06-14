@@ -15,6 +15,7 @@ class SupportedDerivativeTypesRequest extends Request
     protected function endpoint(): string
     {
         $version = Cap::VERSION;
+
         return "https://api.cap-hpi.co.uk/v{$version}/v{version}/derivative-types/equipment";
     }
 }

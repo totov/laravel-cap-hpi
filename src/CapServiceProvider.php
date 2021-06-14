@@ -19,7 +19,6 @@ class CapServiceProvider extends PackageServiceProvider
             ->hasConfigFile('cap');
 
         $this->app->singleton(Cap::class, function () {
-
             $clientId = config('cap.client_id');
             $secret = config('cap.secret');
 
