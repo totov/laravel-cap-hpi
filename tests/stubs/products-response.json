@@ -1,0 +1,624 @@
+[
+    {
+        "name": "VehicleData",
+        "description": "Get all data for a vehicle; access to this product also requires access to any of the datasets you request",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "CurrentValuationsByDerivative",
+        "description": "Get current valuations by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets current valuations for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/current-valuations"
+            }
+        ]
+    },
+    {
+        "name": "CurrentValuationsByVehicle",
+        "description": "Get current valuations by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets current valuations for a vehicle by VIN",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/current-valuations"
+            },
+            {
+                "description": "Gets current valuations for a vehicle by VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vrms/{vrm}/current-valuations"
+            },
+            {
+                "description": "Gets current valuations for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/current-valuations"
+            }
+        ]
+    },
+    {
+        "name": "DerivativeDetailsByDerivative",
+        "description": "Get derivative details by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the details for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/{capId}"
+            }
+        ]
+    },
+    {
+        "name": "DerivativeDetailsByVehicle",
+        "description": "Get derivative details by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the details for a derivative by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/derivative"
+            },
+            {
+                "description": "Gets the details for a derivative by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/derivative"
+            },
+            {
+                "description": "Gets the details for a derivative by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/derivative"
+            }
+        ]
+    },
+    {
+        "name": "DerivativeHierarchy",
+        "description": "Get information about the derivative hierarchy: brands, ranges, models and generation marks",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the list of brands for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/brands"
+            },
+            {
+                "description": "Gets the brand with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/brands/{brandId}"
+            },
+            {
+                "description": "Gets the models for the brand with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/brands/{brandId}/models"
+            },
+            {
+                "description": "Gets the ranges for the brand with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/brands/{brandId}/ranges"
+            },
+            {
+                "description": "Gets the range with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/ranges/{rangeId}"
+            },
+            {
+                "description": "Gets the models for the range with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/ranges/{rangeId}/models"
+            },
+            {
+                "description": "Gets the model with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/models/{modelId}"
+            },
+            {
+                "description": "Gets the trims for the model with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/models/{modelId}/trims"
+            },
+            {
+                "description": "Gets the derivatives for the model with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/models/{modelId}/derivatives"
+            },
+            {
+                "description": "Gets the derivatives for the trim with the given ID for the given derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/trims/{trimId}/derivatives"
+            }
+        ]
+    },
+    {
+        "name": "DerivativeImagesByDerivative",
+        "description": "Get images of a derivative by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the image for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/image"
+            }
+        ]
+    },
+    {
+        "name": "DerivativeImagesByVehicle",
+        "description": "Get images of a derivative by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the image for a derivative by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/derivative/image"
+            },
+            {
+                "description": "Gets the image for a derivative by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/derivative/image"
+            },
+            {
+                "description": "Gets the image for a derivative by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/derivative/image"
+            }
+        ]
+    },
+    {
+        "name": "FutureValuationsByDerivative",
+        "description": "Get future valuations by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets future valuations for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/future-valuations"
+            }
+        ]
+    },
+    {
+        "name": "FutureValuationsByVehicle",
+        "description": "Get future valuations of a vehicle by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets future valuations for a vehicle by VIN",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/future-valuations"
+            },
+            {
+                "description": "Gets future valuations for a vehicle by VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vrms/{vrm}/future-valuations"
+            },
+            {
+                "description": "Gets future valuations for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/future-valuations"
+            }
+        ]
+    },
+    {
+        "name": "TechnicalSpecificationByDerivative",
+        "description": "Get the technical specification by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the technical specification categories for a derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/technical-specification/categories"
+            },
+            {
+                "description": "Gets the technical specification categories for a derivative type",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/technical-specification/categories/{categoryId}"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/technical-specification"
+            }
+        ]
+    },
+    {
+        "name": "TechnicalSpecificationByVehicle",
+        "description": "Get the technical specification of a vehicle by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the technical specification for a derivative by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/derivative/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by VIN",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/derivative/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/derivative/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vrms/{vrm}/derivative/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/derivative/technical-specification"
+            },
+            {
+                "description": "Gets the technical specification for a derivative by VIN and VRM",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/derivative/technical-specification"
+            }
+        ]
+    },
+    {
+        "name": "EquipmentByDerivative",
+        "description": "Get the standard or optional equipment by derivative type and cap ID",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the equipment for a derivative by derivative type and cap ID",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/{derivativeType}/{capId}/equipment"
+            }
+        ]
+    },
+    {
+        "name": "EquipmentByVehicle",
+        "description": "Get the standard or optional equipment of a vehicle by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the equipment for a derivative by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/derivative/equipment"
+            },
+            {
+                "description": "Gets the equipment for a derivative by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/derivative/equipment"
+            },
+            {
+                "description": "Gets the equipment for a derivative by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/derivative/equipment"
+            }
+        ]
+    },
+    {
+        "name": "CheckFlags",
+        "description": "Get boolean values indicating the status of a vehicle on various registers by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets check flags for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/checks"
+            },
+            {
+                "description": "Gets check flags for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/checks"
+            },
+            {
+                "description": "Gets check flags for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/checks"
+            }
+        ]
+    },
+    {
+        "name": "VehicleDetails",
+        "description": "Get general vehicle details by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the details for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}"
+            },
+            {
+                "description": "Gets the details for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}"
+            },
+            {
+                "description": "Gets the details for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}"
+            }
+        ]
+    },
+    {
+        "name": "FinanceAgreements",
+        "description": "Get details of the finance agreements on a vehicle",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "InsuranceRoadworthyInspected",
+        "description": "Get details of roadworthyness inspections performed for insurance purposes",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "InsuranceWriteOffDamaged",
+        "description": "Get details of damage write-offs for insurance purposes",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "InsuranceWriteOffStolen",
+        "description": "Get details of thefts for insurance purposes",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "PlateTransfer",
+        "description": "Get details of plate transfers for a vehicle",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "SecurityWatch",
+        "description": "Get details for a vehicle on the security watch register",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "Stolen",
+        "description": "Get details for a vehicle which has een reported as stolen",
+        "enabled": true,
+        "endpoints": []
+    },
+    {
+        "name": "DvlaData",
+        "description": "Get the data we have received from DVLA by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets DVLA data for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/dvla"
+            },
+            {
+                "description": "Gets DVLA data for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/dvla"
+            },
+            {
+                "description": "Gets DVLA data for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/dvla"
+            }
+        ]
+    },
+    {
+        "name": "VehicleKeepers",
+        "description": "Get information on the keepers of a vehicle by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets keeper data for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/keepers"
+            },
+            {
+                "description": "Gets keeper data for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/keepers"
+            },
+            {
+                "description": "Gets keeper data for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/keepers"
+            }
+        ]
+    },
+    {
+        "name": "SmmtData",
+        "description": "Get the data we have received from SMMT by VIN and/or VRM",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets SMMT data for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/smmt"
+            },
+            {
+                "description": "Gets SMMT data for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/smmt"
+            },
+            {
+                "description": "Gets SMMT data for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/smmt"
+            }
+        ]
+    },
+    {
+        "name": "WltpData",
+        "description": "Get Worldwide Harmonised Light Vehicle Test results for a configured derivative",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Returns wltp values",
+                "requestMethods": [
+                    "POST"
+                ],
+                "url": "/v1/wltp"
+            }
+        ]
+    },
+    {
+        "name": "MotHistory",
+        "description": "Get MOT check history details for a vehicle",
+        "enabled": true,
+        "endpoints": [
+            {
+                "description": "Gets the MOT history for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/mots"
+            },
+            {
+                "description": "Gets the MOT history for a vehicle by VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vrms/{vrm}/mots/latest"
+            },
+            {
+                "description": "Gets the MOT history for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/mots"
+            },
+            {
+                "description": "Gets the latest MOT history for a vehicle by VIN",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/mots/latest"
+            },
+            {
+                "description": "Gets the MOT history for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/mots"
+            },
+            {
+                "description": "Gets the latest MOT history for a vehicle by VIN and VRM",
+                "requestMethods": [
+                    "GET"
+                ],
+                "url": "/v1/vins/{vin}/vrms/{vrm}/mots/latest"
+            }
+        ]
+    }
+]

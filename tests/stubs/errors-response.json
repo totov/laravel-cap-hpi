@@ -1,0 +1,117 @@
+[
+    {
+        "type": "brand_not_found_error",
+        "exampleMessage": "The Car brand with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "data_unavailable_error",
+        "exampleMessage": "Sorry, the requested data is currently unavailable. We are already aware of this, please try again soon.",
+        "httpStatusCode": 503
+    },
+    {
+        "type": "derivative_not_found_error",
+        "exampleMessage": "The derivative cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "image_not_found_error",
+        "exampleMessage": "The image for the Car with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "invalid_cap_id_error",
+        "exampleMessage": "The CAP ID must be greater than zero, but you passed in '0'",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "invalid_derivative_type_error",
+        "exampleMessage": "Value 'derivativeType' is not a valid derivative type",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "invalid_parameter_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "invalid_request_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "invalid_valuation_type_error",
+        "exampleMessage": "The value 'valuationType' is not a valid valuation type",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "model_not_found_error",
+        "exampleMessage": "The Car model with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "mot_history_not_found_error",
+        "exampleMessage": "MOT history for the vehicle with VIN 'vin' and VRM 'vrm' cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_brands_found_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_derivatives_found_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_equipment_found_error",
+        "exampleMessage": "equipmentType for the Car derivative with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_models_found_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_ranges_found_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "no_trims_found_error",
+        "exampleMessage": "message",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "product_subscriptions_could_not_be_fetched_error",
+        "exampleMessage": "Sorry, your product subscriptions could not be fetched",
+        "httpStatusCode": 503
+    },
+    {
+        "type": "range_not_found_error",
+        "exampleMessage": "The Car range with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "trim_not_found_error",
+        "exampleMessage": "The Car trim with ID 0 cannot be found",
+        "httpStatusCode": 404
+    },
+    {
+        "type": "unsupported_derivative_type_error",
+        "exampleMessage": "The 'Car' derivative type is not supported for this endpoint",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "vehicle_identification_mismatch_error",
+        "exampleMessage": "The VIN 'vin' and VRM 'vrm' do not match to the same vehicle",
+        "httpStatusCode": 400
+    },
+    {
+        "type": "vehicle_not_found_error",
+        "exampleMessage": "The vehicle with VIN 'vin' and VRM 'vrm' cannot be found",
+        "httpStatusCode": 404
+    }
+]

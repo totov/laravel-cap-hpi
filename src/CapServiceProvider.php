@@ -4,7 +4,6 @@ namespace Totov\Cap;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Totov\Cap\Commands\CapCommand;
 
 class CapServiceProvider extends PackageServiceProvider
 {
@@ -17,9 +16,14 @@ class CapServiceProvider extends PackageServiceProvider
          */
         $package
             ->name('laravel-cap-hpi')
-            ->hasConfigFile()
-            ->hasViews()
-            ->hasMigration('create_laravel-cap-hpi_table')
-            ->hasCommand(CapCommand::class);
+            ->hasConfigFile('cap');
+
+        $this->app->singleton(Cap::class, function () {
+
+            $clientId = config('cap.client_id');
+            $secret = config('cap.secret');
+
+            return new Cap($clientId, $secret);
+        });
     }
 }
