@@ -1,14 +1,14 @@
 <?php
 
-namespace Totov\Cap\Equipment;
+namespace Totov\Cap\Subsets\Equipment;
 
-use Totov\Cap\Equipment\Requests\ByDerivativeTypeAndCapIdRequest;
-use Totov\Cap\Equipment\Requests\ByVin;
-use Totov\Cap\Equipment\Requests\ByVinAndVrm;
-use Totov\Cap\Equipment\Requests\ByVrm;
-use Totov\Cap\Equipment\Requests\SupportedDerivativeTypesRequest;
+use Totov\Cap\Subsets\Equipment\Requests\ByDerivativeTypeAndCapIdRequest;
+use Totov\Cap\Subsets\Equipment\Requests\ByVin;
+use Totov\Cap\Subsets\Equipment\Requests\ByVinAndVrm;
+use Totov\Cap\Subsets\Equipment\Requests\ByVrm;
+use Totov\Cap\Subsets\Equipment\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subset;
+use Totov\Cap\Subsets\Subset;
 
 class Equipment extends Subset
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Totov\Cap\FullVehicleData;
+namespace Totov\Cap\Subsets\FullVehicleData;
 
 use Totov\Cap\CurrentValuationRequest;
 use Totov\Cap\FutureValuationRequest;

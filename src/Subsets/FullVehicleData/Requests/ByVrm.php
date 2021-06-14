@@ -1,10 +1,10 @@
 <?php
 
-namespace Totov\Cap\FullVehicleData\Requests;
+namespace Totov\Cap\Subsets\FullVehicleData\Requests;
 
 use Totov\Cap\Cap;
 use Totov\Cap\CurrentValuationRequest;
-use Totov\Cap\FullVehicleData\Options;
+use Totov\Cap\Subsets\FullVehicleData\Options;
 use Totov\Cap\FutureValuationRequest;
 use Totov\Cap\Requests\Request;
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace Totov\Cap\FullVehicleData;
+namespace Totov\Cap\Subsets\FullVehicleData;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\FullVehicleData\Requests\ByVin;
-use Totov\Cap\FullVehicleData\Requests\ByVinAndVrm;
-use Totov\Cap\FullVehicleData\Requests\ByVrm;
-use Totov\Cap\Subset;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVin;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVinAndVrm;
+use Totov\Cap\Subsets\FullVehicleData\Requests\ByVrm;
+use Totov\Cap\Subsets\Subset;
 
 class FullVehicleData extends Subset
 {

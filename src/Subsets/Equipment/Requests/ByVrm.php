@@ -1,6 +1,6 @@
 <?php
 
-namespace Totov\Cap\Equipment\Requests;
+namespace Totov\Cap\Subsets\Equipment\Requests;
 
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;

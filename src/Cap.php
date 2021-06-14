@@ -3,9 +3,9 @@
 namespace Totov\Cap;
 
 use Carbon\Carbon;
-use Totov\Cap\Equipment\Equipment;
+use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\FullVehicleData\FullVehicleData;
+use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
 use Totov\Cap\Requests\AuthoriseRequest;
 use Totov\Cap\Requests\ErrorsRequest;
 use Totov\Cap\Requests\ProductsRequest;

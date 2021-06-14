@@ -1,16 +1,16 @@
 <?php
 
-namespace Totov\Cap\FullVehicleData\Requests;
+namespace Totov\Cap\Subsets\FullVehicleData\Requests;
 
 use Totov\Cap\Cap;
 use Totov\Cap\CurrentValuationRequest;
-use Totov\Cap\FullVehicleData\Options;
+use Totov\Cap\Subsets\FullVehicleData\Options;
 use Totov\Cap\FutureValuationRequest;
 use Totov\Cap\Requests\Request;
 
-class ByVinAndVrm extends Request
+class ByVin extends Request
 {
-    public function __construct(protected string $accessToken, protected string $vin, protected string $vrm, protected ?Options $options)
+    public function __construct(protected string $accessToken, protected string $vin, protected ?Options $options)
     {
         if (! $this->options) {
             $this->options = new Options(
@@ -34,6 +34,6 @@ class ByVinAndVrm extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/vrms/{$this->vrm}/data";
+        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/data";
     }
 }

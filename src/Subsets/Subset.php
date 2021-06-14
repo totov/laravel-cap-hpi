@@ -1,6 +1,8 @@
 <?php
 
-namespace Totov\Cap;
+namespace Totov\Cap\Subsets;
+
+use Totov\Cap\Cap;
 
 class Subset
 {
