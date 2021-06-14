@@ -5,9 +5,9 @@ namespace Totov\Cap\Equipment\Requests;
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 
-class SupportedDerivativeTypesRequest extends Request
+class ByVin extends Request
 {
-    public function __construct(protected string $accessToken)
+    public function __construct(protected string $accessToken, protected string $vin)
     {
         $this->method = Request::METHOD_GET;
     }
@@ -16,6 +16,6 @@ class SupportedDerivativeTypesRequest extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/derivative-types/equipment";
+        return "https://api.cap-hpi.co.uk/v{$version}/vins/{$this->vin}/derivative/equipment";
     }
 }

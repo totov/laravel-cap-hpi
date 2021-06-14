@@ -32,6 +32,7 @@ class AuthoriseRequestTest extends TestCase
 
         $this->expectException(AuthorisationFailedException::class);
 
-        new Cap(null, null);
+        $cap = new Cap(null, null);
+        $cap->getValidToken();
     }
 }

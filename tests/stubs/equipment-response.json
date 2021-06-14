@@ -1,0 +1,1120 @@
+{
+    "capId": 73471,
+    "derivativeType": "Car",
+    "specificationDate": "2020-12-14",
+    "categories": [
+        {
+            "items": [
+                {
+                    "id": 114199,
+                    "name": "Apple car play/Android Auto",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 70212,
+                    "name": "Bluetooth system",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Communication",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 106728,
+                    "name": "City assist mode for power steering",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 17710,
+                    "name": "Cruise control + speed limiter",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 10319,
+                    "name": "Speed sensitive power steering",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Driver Aids",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 31880,
+                    "name": "Exterior temperature gauge",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 98924,
+                    "name": "IntelliLink infotainment system",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 4583,
+                    "name": "Lights on warning",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5395,
+                    "name": "Low fuel level warning light",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 31714,
+                    "name": "Multi function display",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 3829,
+                    "name": "Rev counter",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 74322,
+                    "name": "Service indicator",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 84502,
+                    "name": "Speed warning indicator",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 2599,
+                    "name": "Trip computer",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Driver Information",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 80862,
+                    "name": "CD30 stereo radio/CD/MP3 player + aux-in socket",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 6460,
+                    "name": "6 speakers",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 88314,
+                    "name": "Bluetooth audio streaming",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 71174,
+                    "name": "DAB digital radio module",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 79912,
+                    "name": "USB connection",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Entertainment",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 10790,
+                    "name": "Electric front windows/one touch facility",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 4149,
+                    "name": "Heated rear window",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 1528,
+                    "name": "Heated windscreen",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 4105,
+                    "name": "Laminated windscreen",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 2071,
+                    "name": "Rear wiper",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5472,
+                    "name": "Two speed windscreen wipers",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Body Glass",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 28602,
+                    "name": "Body coloured door mirrors",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 84819,
+                    "name": "Electric adjustable door mirrors",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 1508,
+                    "name": "Heated door mirrors",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Driving Mirrors",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 88718,
+                    "name": "Black fog light surrounds",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 6281,
+                    "name": "Body colour bumpers",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 6186,
+                    "name": "Body colour door handles",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 13346,
+                    "name": "Chrome front grille",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 14752,
+                    "name": "Solid paint",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Exterior Body Features",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 45170,
+                    "name": "Coming home function",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5048,
+                    "name": "Headlamp levelling",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 82693,
+                    "name": "LED daytime running lights",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Exterior Lights",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 499,
+                    "name": "Air conditioning",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5412,
+                    "name": "Air recirculation system",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 7179,
+                    "name": "Pollen filter",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Heating/Cooling/Ventilation",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 71957,
+                    "name": "60/40 split folding rear seat",
+                    "price": {
+                        "basic": 116.6667,
+                        "vat": 23.3333,
+                        "total": 140.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 499,
+                    "name": "Air conditioning",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 941,
+                    "name": "Climate control",
+                    "price": {
+                        "basic": 337.5,
+                        "vat": 67.5,
+                        "total": 405.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 80969,
+                    "name": "Folding rear seats",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 53112,
+                    "name": "Height adjustable passenger seat",
+                    "price": {
+                        "basic": 54.1667,
+                        "vat": 10.8333,
+                        "total": 65.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 95322,
+                    "name": "12V power outlet",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 10686,
+                    "name": "Centre console with cupholders",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 20814,
+                    "name": "Chrome gear knob",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 14445,
+                    "name": "Chrome interior door handles",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 88166,
+                    "name": "Electric reach + rake adjustable steering column",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 6373,
+                    "name": "Front door pockets",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5982,
+                    "name": "Glovebox",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 7716,
+                    "name": "Grab handles",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 107640,
+                    "name": "Load restraining lashing points",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 29254,
+                    "name": "Luggage compartment cover",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 114607,
+                    "name": "Mora seat cloth upholstery",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 4907,
+                    "name": "Multi function steering wheel",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 80338,
+                    "name": "Rear bottle holder",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Interior Features",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 7387,
+                    "name": "Delay courtesy light function",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 39744,
+                    "name": "Driver/passenger reading lights",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 56481,
+                    "name": "Illuminated luggage compartment",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Interior Lights",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 14592,
+                    "name": "2 height adjustable rear headrests",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 58330,
+                    "name": "Easy entry reclining front seats with memory",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 80969,
+                    "name": "Folding rear seats",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 84360,
+                    "name": "Front seat belt pre-tensioners with load limiters",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 6161,
+                    "name": "Height adjustable driver's seat",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 8560,
+                    "name": "Height adjustable front headrests",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 76377,
+                    "name": "ISOFIX on outer rear seats",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 5511,
+                    "name": "Reclining front seats",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Seats",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 8063,
+                    "name": "Driver/passenger sunvisors and vanity mirrors",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Vanity Mirrors",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 113883,
+                    "name": "Driver assistance pack 2 - Corsa",
+                    "price": {
+                        "basic": 550.0,
+                        "vat": 110.0,
+                        "total": 660.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 79686,
+                    "name": "Sight and light Pack - Corsa",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 107587,
+                    "name": "Sight and light Pack 2 - Corsa",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 79686,
+                    "name": "Sight and light Pack - Corsa",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 84650,
+                    "name": "Winter pack - Corsa",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Packs",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 56486,
+                    "name": "Anti-lock Brake System + Electronic Brakeforce Distribution + Emergency Brake Assit",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 39987,
+                    "name": "Brake assist function",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 36105,
+                    "name": "Electronic Stability Programme + traction control",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 51684,
+                    "name": "Hill start assist",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Brakes",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 55839,
+                    "name": "Driver/passenger 2 stage auto adaptive airbags",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 33699,
+                    "name": "Front and rear curtain airbags",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 83408,
+                    "name": "Front and rear seatbelt reminder",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 1429,
+                    "name": "Front seat side impact airbags",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 3939,
+                    "name": "Height adjustable front seatbelts",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 40950,
+                    "name": "Passenger airbag deactivation system",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 6272,
+                    "name": "Side impact protection beams",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 7695,
+                    "name": "Three 3 point rear seatbelts",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 46298,
+                    "name": "Tyre pressure monitoring system",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Safety",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 8525,
+                    "name": "Remote security alarm system",
+                    "price": {
+                        "basic": 216.6667,
+                        "vat": 43.3333,
+                        "total": 260.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 17556,
+                    "name": "Deadlocks",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 1559,
+                    "name": "Immobiliser",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 7469,
+                    "name": "Key left in ignition audible warning",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 4205,
+                    "name": "Locking wheel bolts",
+                    "price": null,
+                    "status": "Standard"
+                },
+                {
+                    "id": 20082,
+                    "name": "Radio frequency remote central locking",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Security",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 107589,
+                    "name": "Rhutenium facia with chrome effect inserts",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Embellishment Trims",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 107086,
+                    "name": "16\" Silver alloy wheels - Style 1",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Wheels - Alloy",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 68261,
+                    "name": "Tyre inflation kit",
+                    "price": null,
+                    "status": "Standard"
+                }
+            ],
+            "name": "Wheels - Spare",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Registration Fee",
+                    "price": {
+                        "basic": 50.0,
+                        "vat": 0.0,
+                        "total": 50.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 1,
+                    "name": "Delivery",
+                    "price": {
+                        "basic": 595.7446808510638,
+                        "vat": 104.25531914893617,
+                        "total": 700.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": -1,
+                    "name": "Twelve Months Road Tax",
+                    "price": {
+                        "basic": 155.0,
+                        "vat": 0.0,
+                        "total": 155.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "On The Road",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 111090,
+                    "name": "Advanced parking assist and blind spot detection with front and rear parking sensors",
+                    "price": {
+                        "basic": 420.8333,
+                        "vat": 84.1667,
+                        "total": 505.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 106728,
+                    "name": "City assist mode for power steering",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 83759,
+                    "name": "Front and rear parking sensors",
+                    "price": {
+                        "basic": 383.3333,
+                        "vat": 76.6667,
+                        "total": 460.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 114786,
+                    "name": "Inductive charger for portable mobile devices",
+                    "price": {
+                        "basic": 133.3333,
+                        "vat": 26.6667,
+                        "total": 160.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 98924,
+                    "name": "IntelliLink infotainment system",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 43763,
+                    "name": "Rear view camera",
+                    "price": {
+                        "basic": 175.0,
+                        "vat": 35.0,
+                        "total": 210.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 110276,
+                    "name": "Vauxhall OnStar emergency assistance",
+                    "price": {
+                        "basic": 337.5,
+                        "vat": 67.5,
+                        "total": 405.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "Driver Convenience",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 77504,
+                    "name": "Flex-fix flexible integrated carrier system",
+                    "price": {
+                        "basic": 383.3333,
+                        "vat": 76.6667,
+                        "total": 460.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 961,
+                    "name": "Metallic paint",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 107778,
+                    "name": "Panoramic sunroof with sunblind, passenger seat height adjust and front map reading lights",
+                    "price": {
+                        "basic": 633.3333,
+                        "vat": 126.6667,
+                        "total": 760.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 1924,
+                    "name": "Pearlescent paint",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 14752,
+                    "name": "Solid paint",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 64626,
+                    "name": "Special solid paint",
+                    "price": {
+                        "basic": 237.5,
+                        "vat": 47.5,
+                        "total": 285.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "Exterior Features",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 113864,
+                    "name": "Metallic - Mineral black",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 82076,
+                    "name": "Metallic - Persian blue",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 24693,
+                    "name": "Metallic - Quantum Grey",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 85026,
+                    "name": "Metallic - Sovereign silver",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 14723,
+                    "name": "Metallic - Steel grey",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 105719,
+                    "name": "Pearl - Dark sea blue",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 93680,
+                    "name": "Pearl - Lime green",
+                    "price": {
+                        "basic": 462.5,
+                        "vat": 92.5,
+                        "total": 555.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 8812,
+                    "name": "Solid - Royal blue",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 107075,
+                    "name": "Special paint - Brilliant Flaming yellow",
+                    "price": {
+                        "basic": 237.5,
+                        "vat": 47.5,
+                        "total": 285.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 114605,
+                    "name": "Special paint - Brilliant lava red",
+                    "price": {
+                        "basic": 237.5,
+                        "vat": 47.5,
+                        "total": 285.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 96415,
+                    "name": "Special paint - Brilliant Summit white",
+                    "price": {
+                        "basic": 237.5,
+                        "vat": 47.5,
+                        "total": 285.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "Paintwork",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 114608,
+                    "name": "Mora seat cloth - Jet Black",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "Trim",
+            "links": []
+        },
+        {
+            "items": [
+                {
+                    "id": 4421,
+                    "name": "Space saver spare wheel",
+                    "price": {
+                        "basic": 91.6667,
+                        "vat": 18.3333,
+                        "total": 110.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                },
+                {
+                    "id": 68261,
+                    "name": "Tyre inflation kit",
+                    "price": {
+                        "basic": 0.0,
+                        "vat": 0.0,
+                        "total": 0.0,
+                        "priceOnApplication": false
+                    },
+                    "status": "Optional"
+                }
+            ],
+            "name": "Wheels",
+            "links": []
+        }
+    ],
+    "errors": []
+}

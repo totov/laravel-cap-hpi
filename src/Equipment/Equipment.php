@@ -2,6 +2,10 @@
 
 namespace Totov\Cap\Equipment;
 
+use Totov\Cap\Equipment\Requests\ByDerivativeTypeAndCapIdRequest;
+use Totov\Cap\Equipment\Requests\ByVin;
+use Totov\Cap\Equipment\Requests\ByVinAndVrm;
+use Totov\Cap\Equipment\Requests\ByVrm;
 use Totov\Cap\Equipment\Requests\SupportedDerivativeTypesRequest;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Subset;
@@ -15,6 +19,50 @@ class Equipment extends Subset
     {
         $token = $this->cap->getValidToken();
         $response = (new SupportedDerivativeTypesRequest($token))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function byDerivativeTypeAndCapId(string $derivativeType, string $capId): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new ByDerivativeTypeAndCapIdRequest($token, $derivativeType, $capId))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function byVin(string $vin): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new ByVin($token, $vin))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function byVrm(string $vrm): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new ByVrm($token, $vrm))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function byVinAndVrm(string $vin, string $vrm): array
+    {
+        $token = $this->cap->getValidToken();
+        $response = (new ByVinAndVrm($token, $vin, $vrm))->send();
 
         return $response->json();
     }

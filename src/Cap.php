@@ -13,7 +13,7 @@ use Totov\Cap\Requests\VersionRequest;
 
 class Cap
 {
-    protected string $accessToken;
+    protected string $accessToken = '';
     protected Carbon $tokenExpiresAt;
 
     public const VERSION = '1';
@@ -25,7 +25,7 @@ class Cap
      */
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
-        $this->authorise();
+        $this->tokenExpiresAt = now();
 
         $this->equipment = new Equipment($this);
     }
