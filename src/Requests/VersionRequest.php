@@ -2,7 +2,7 @@
 
 namespace Totov\Cap\Requests;
 
-class ProductsRequest extends Request
+class VersionRequest extends Request
 {
     public function __construct(protected string $accessToken)
     {
@@ -11,6 +11,6 @@ class ProductsRequest extends Request
 
     protected function endpoint(): string
     {
-        return 'https://api.cap-hpi.co.uk/products';
+        return 'https://api.cap-hpi.co.uk/version';
     }
 }

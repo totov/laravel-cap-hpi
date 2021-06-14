@@ -3,16 +3,22 @@
 namespace Totov\Cap;
 
 use Carbon\Carbon;
+use Totov\Cap\Equipment\Equipment;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 use Totov\Cap\Requests\AuthoriseRequest;
 use Totov\Cap\Requests\ErrorsRequest;
 use Totov\Cap\Requests\ProductsRequest;
 use Totov\Cap\Requests\StatusRequest;
+use Totov\Cap\Requests\VersionRequest;
 
 class Cap
 {
     protected string $accessToken;
     protected Carbon $tokenExpiresAt;
+
+    public const VERSION = '1';
+
+    public Equipment $equipment;
 
     /**
      * @throws AuthorisationFailedException
@@ -20,6 +26,9 @@ class Cap
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
         $this->authorise();
+
+        $this->equipment = new Equipment($this);
+
     }
 
     /**
@@ -74,6 +83,17 @@ class Cap
     {
         $token = $this->getValidToken();
         $response = (new ErrorsRequest($token))->send();
+
+        return $response->json();
+    }
+
+    /**
+     * @throws AuthorisationFailedException
+     */
+    public function version(): array
+    {
+        $token = $this->getValidToken();
+        $response = (new VersionRequest($token))->send();
 
         return $response->json();
     }

@@ -6,7 +6,6 @@ class ErrorsRequest extends Request
 {
     public function __construct(protected string $accessToken)
     {
-        $this->accessToken = $accessToken;
         $this->method = Request::METHOD_GET;
     }
 
