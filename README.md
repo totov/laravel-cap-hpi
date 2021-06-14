@@ -58,6 +58,9 @@ $cap->currentValuations->byVrm('AB12CDE', $options);
 
 // Look up equipment by VRM
 $cap->equipment->byVrm('AB12CDE');
+
+// Look up derivative details by VRM
+$cap->derivativeDetails->byVrm('AB12CDE');
 ```
 
 ## Testing
