@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Http;
 use Totov\Cap\Cap;
 use Totov\Cap\Exceptions\AuthorisationFailedException;
 
-class AuthoriseRequestTest extends TestCase
+class AuthoriseTest extends TestCase
 {
     /** @test */
     public function valid_authorise_request_test(): void

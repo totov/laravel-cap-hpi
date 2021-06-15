@@ -5,7 +5,7 @@ namespace Totov\Cap\Tests;
 use Illuminate\Support\Facades\Http;
 use Totov\Cap\Cap;
 
-class StatusRequestTest extends TestCase
+class StatusTest extends TestCase
 {
     /** @test */
     public function health_status_request_test(): void

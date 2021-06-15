@@ -75,6 +75,9 @@ $cap->smmtData->byVrm('AB12CDE');
 
 // Get previous keepers of vehicle by VRM
 $cap->vehicleKeepers->byVrm('AB12CDE');
+
+// Look up DVLA data for vehicle by VRM
+$cap->dvlaData->byVrm('AB12CDE');
 ```
 
 ## Testing

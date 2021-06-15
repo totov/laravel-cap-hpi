@@ -11,6 +11,7 @@ use Totov\Cap\Requests\StatusRequest;
 use Totov\Cap\Requests\VersionRequest;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
 use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
+use Totov\Cap\Subsets\DvlaData\DvlaData;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
 use Totov\Cap\Subsets\SmmtData\SmmtData;
@@ -31,6 +32,7 @@ class Cap
     public VehicleDetails $vehicleDetails;
     public SmmtData $smmtData;
     public VehicleKeepers $vehicleKeepers;
+    public DvlaData $dvlaData;
 
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
@@ -43,6 +45,7 @@ class Cap
         $this->vehicleDetails = new VehicleDetails($this);
         $this->smmtData = new SmmtData($this);
         $this->vehicleKeepers = new VehicleKeepers($this);
+        $this->dvlaData = new DvlaData($this);
     }
 
     /**

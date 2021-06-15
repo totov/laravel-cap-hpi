@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Http;
 use Totov\Cap\Cap;
 
-class ProductsRequestTest extends TestCase
+class ProductsTest extends TestCase
 {
     /** @test */
     public function products_request_test(): void

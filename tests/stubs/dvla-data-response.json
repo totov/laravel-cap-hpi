@@ -1,0 +1,74 @@
+{
+    "vin": "",
+    "vrm": "",
+    "dvlaData": {
+        "firstRegistration": {
+            "firstRegisteredCountryCode": null,
+            "firstRegistrationData": null,
+            "ukFirstRegistrationDate": "2016-07-13",
+            "usedBeforeRegistration": false
+        },
+        "previousKeepers": {
+            "numberOfPreviousKeepers": 2,
+            "previousKeeperAcquiredDate": "2017-12-11",
+            "previousKeeperDisposalDate": "2019-06-29"
+        },
+        "lastSoldDate": "2019-07-12",
+        "v5IssueDate": null,
+        "engineSerialNumber": "",
+        "engineSize": 1398,
+        "totalBhp": null,
+        "massInService": 1141,
+        "grossWeight": 0,
+        "vicTest": null,
+        "import": {
+            "isImported": false,
+            "northernIrelandImportDate": null
+        },
+        "export": {
+            "exportDate": null,
+            "isExported": false
+        },
+        "scrap": {
+            "isScrapRemoved": false,
+            "isScrapped": false,
+            "scrapDate": null
+        },
+        "serialNumber": "",
+        "northernIrelandSerialNumber": null,
+        "manufacturedDate": "2016-07-13",
+        "make": {
+            "code": "DG",
+            "name": "VAUXHALL"
+        },
+        "model": {
+            "code": "713",
+            "name": "CORSA LIMITED EDITION ECO"
+        },
+        "body": {
+            "code": "13",
+            "name": "3 Door Hatchback"
+        },
+        "colours": {
+            "current": {
+                "code": "P",
+                "name": "BLACK"
+            },
+            "lastColourChangeDate": null,
+            "lastPrevious": null,
+            "numberOfPreviousColours": 0,
+            "original": null,
+            "previous": null
+        },
+        "fuelType": {
+            "code": "1",
+            "name": "Petrol"
+        },
+        "wheelPlan": {
+            "code": "C",
+            "name": "2 Axle Rigid Body"
+        }
+    },
+    "links": null,
+    "errors": []
+}
