@@ -1,0 +1,550 @@
+{
+    "vin": null,
+    "vrm": "",
+    "capId": 0,
+    "derivativeType": "Car",
+    "specificationDate": "2021-06-15",
+    "categories": [
+        {
+            "items": [
+                {
+                    "value": "4021",
+                    "id": 4,
+                    "name": "Length",
+                    "valueType": 1
+                },
+                {
+                    "value": "1736",
+                    "id": 5,
+                    "name": "Width",
+                    "valueType": 0
+                },
+                {
+                    "value": "2510",
+                    "id": 15,
+                    "name": "Wheelbase",
+                    "valueType": 1
+                },
+                {
+                    "value": "1944",
+                    "id": 33,
+                    "name": "Width (including mirrors)",
+                    "valueType": 1
+                },
+                {
+                    "value": "1479",
+                    "id": 34,
+                    "name": "Height",
+                    "valueType": 1
+                },
+                {
+                    "value": "N",
+                    "id": 35,
+                    "name": "Height (including roof rails)",
+                    "valueType": 1
+                }
+            ],
+            "id": 6,
+            "name": "Vehicle Dimensions",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/6",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "True",
+                    "id": 8,
+                    "name": "EC Directive 1999/100/EC Applies",
+                    "valueType": 3
+                },
+                {
+                    "value": "41.5",
+                    "id": 9,
+                    "name": "EC Urban (mpg)",
+                    "valueType": 2
+                },
+                {
+                    "value": "65.7",
+                    "id": 10,
+                    "name": "EC Extra Urban (mpg)",
+                    "valueType": 2
+                },
+                {
+                    "value": "54.3",
+                    "id": 11,
+                    "name": "EC Combined (mpg)",
+                    "valueType": 2
+                }
+            ],
+            "id": 3,
+            "name": "Fuel Consumption - ICE",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/3",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "13.2",
+                    "id": 12,
+                    "name": "0 to 62 mph (secs)",
+                    "valueType": 2
+                },
+                {
+                    "value": "109",
+                    "id": 13,
+                    "name": "Top Speed",
+                    "valueType": 1
+                },
+                {
+                    "value": "90",
+                    "id": 21,
+                    "name": "Engine Power - BHP",
+                    "valueType": 2
+                },
+                {
+                    "value": "True",
+                    "id": 22,
+                    "name": "Engine Power - PS",
+                    "valueType": 3
+                },
+                {
+                    "value": "False",
+                    "id": 23,
+                    "name": "0 to 60 mph (secs)",
+                    "valueType": 3
+                },
+                {
+                    "value": "66",
+                    "id": 48,
+                    "name": "Engine Power - KW",
+                    "valueType": 2
+                },
+                {
+                    "value": "6000",
+                    "id": 49,
+                    "name": "Engine Power - RPM",
+                    "valueType": 1
+                },
+                {
+                    "value": "96",
+                    "id": 50,
+                    "name": "Engine Torque - LBS.FT",
+                    "valueType": 2
+                },
+                {
+                    "value": "130",
+                    "id": 51,
+                    "name": "Engine Torque - NM",
+                    "valueType": 2
+                },
+                {
+                    "value": "4000",
+                    "id": 52,
+                    "name": "Engine Torque - RPM",
+                    "valueType": 0
+                },
+                {
+                    "value": "13.3",
+                    "id": 103,
+                    "name": "Engine Torque - MKG",
+                    "valueType": 2
+                }
+            ],
+            "id": 2,
+            "name": "Performance",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/2",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "1600",
+                    "id": 14,
+                    "name": "Gross Vehicle Weight",
+                    "valueType": 1
+                },
+                {
+                    "value": "45",
+                    "id": 24,
+                    "name": "Fuel Tank Capacity (Litres)",
+                    "valueType": 2
+                },
+                {
+                    "value": "800",
+                    "id": 30,
+                    "name": "Max. Towing Weight - Braked",
+                    "valueType": 1
+                },
+                {
+                    "value": "550",
+                    "id": 31,
+                    "name": "Max. Towing Weight - Unbraked",
+                    "valueType": 1
+                },
+                {
+                    "value": "280",
+                    "id": 40,
+                    "name": "Luggage Capacity (Seats Up)",
+                    "valueType": 1
+                },
+                {
+                    "value": "5",
+                    "id": 47,
+                    "name": "No. of Seats",
+                    "valueType": 1
+                },
+                {
+                    "value": "75",
+                    "id": 70,
+                    "name": "Max. Roof Load",
+                    "valueType": 1
+                },
+                {
+                    "value": "1090",
+                    "id": 71,
+                    "name": "Luggage Capacity (Seats Down)",
+                    "valueType": 2
+                },
+                {
+                    "value": "10.6",
+                    "id": 72,
+                    "name": "Turning Circle - Kerb to Kerb",
+                    "valueType": 2
+                }
+            ],
+            "id": 7,
+            "name": "Weight and Capacities",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/7",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "Limited edition",
+                    "id": 18,
+                    "name": "Coin Series",
+                    "valueType": 0
+                },
+                {
+                    "value": "N",
+                    "id": 19,
+                    "name": "Coin Description",
+                    "valueType": 0
+                },
+                {
+                    "value": "3",
+                    "id": 26,
+                    "name": "Standard manufacturers warranty - Years",
+                    "valueType": 1
+                },
+                {
+                    "value": "60000",
+                    "id": 27,
+                    "name": "Standard manufacturers warranty - Mileage",
+                    "valueType": 1
+                },
+                {
+                    "value": "False",
+                    "id": 106,
+                    "name": "Safety Concerns?",
+                    "valueType": 3
+                },
+                {
+                    "value": "True",
+                    "id": 122,
+                    "name": "Special Edition",
+                    "valueType": 3
+                },
+                {
+                    "value": "False",
+                    "id": 123,
+                    "name": "Special Order",
+                    "valueType": 3
+                },
+                {
+                    "value": "80567",
+                    "id": 124,
+                    "name": "Based On ID",
+                    "valueType": 1
+                },
+                {
+                    "value": "7E",
+                    "id": 133,
+                    "name": "Insurance Group 1 - 50 Effective January 07",
+                    "valueType": 0
+                },
+                {
+                    "value": "20000",
+                    "id": 136,
+                    "name": "Service Interval Mileage",
+                    "valueType": 1
+                },
+                {
+                    "value": "12",
+                    "id": 137,
+                    "name": "Service Interval Frequency - Months",
+                    "valueType": 1
+                },
+                {
+                    "value": "100000",
+                    "id": 138,
+                    "name": "Timing Belt Interval Mileage",
+                    "valueType": 1
+                },
+                {
+                    "value": "60",
+                    "id": 139,
+                    "name": "Timing Belt Interval Frequency - Months",
+                    "valueType": 1
+                },
+                {
+                    "value": "79",
+                    "id": 140,
+                    "name": "NCAP Adult Occupant Protection %",
+                    "valueType": 1
+                },
+                {
+                    "value": "77",
+                    "id": 141,
+                    "name": "NCAP Child Occupant Protection %",
+                    "valueType": 1
+                },
+                {
+                    "value": "71",
+                    "id": 142,
+                    "name": "NCAP Pedestrian Protection %",
+                    "valueType": 1
+                },
+                {
+                    "value": "56",
+                    "id": 143,
+                    "name": "NCAP Safety Assist %",
+                    "valueType": 1
+                },
+                {
+                    "value": "4",
+                    "id": 144,
+                    "name": "NCAP Overall Rating - Effective February 09",
+                    "valueType": 1
+                },
+                {
+                    "value": "90",
+                    "id": 145,
+                    "name": "Badge Power",
+                    "valueType": 1
+                },
+                {
+                    "value": "1.4",
+                    "id": 146,
+                    "name": "Badge Engine CC",
+                    "valueType": 2
+                },
+                {
+                    "value": "M1",
+                    "id": 147,
+                    "name": "Vehicle Homologation Class",
+                    "valueType": 0
+                },
+                {
+                    "value": "5",
+                    "id": 471,
+                    "name": "Generation Mark",
+                    "valueType": 1
+                },
+                {
+                    "value": "False",
+                    "id": 473,
+                    "name": "Alternative Fuel Qualifying",
+                    "valueType": 3
+                }
+            ],
+            "id": 8,
+            "name": "General",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/8",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "1398",
+                    "id": 20,
+                    "name": "CC",
+                    "valueType": 1
+                },
+                {
+                    "value": "4",
+                    "id": 56,
+                    "name": "Cylinders",
+                    "valueType": 1
+                },
+                {
+                    "value": "IN-LINE",
+                    "id": 57,
+                    "name": "Cylinder Layout",
+                    "valueType": 0
+                },
+                {
+                    "value": "16",
+                    "id": 58,
+                    "name": "Number of Valves",
+                    "valueType": 1
+                },
+                {
+                    "value": "DOHC",
+                    "id": 59,
+                    "name": "Camshaft",
+                    "valueType": 0
+                },
+                {
+                    "value": "MULTI POINT FUEL INJECTION",
+                    "id": 60,
+                    "name": "Fuel Delivery",
+                    "valueType": 0
+                },
+                {
+                    "value": "True",
+                    "id": 61,
+                    "name": "Catalytic Convertor",
+                    "valueType": 3
+                },
+                {
+                    "value": "FRONT TRANSVERSE",
+                    "id": 62,
+                    "name": "Engine Layout",
+                    "valueType": 0
+                },
+                {
+                    "value": "MANUAL",
+                    "id": 64,
+                    "name": "Transmission",
+                    "valueType": 0
+                },
+                {
+                    "value": "5 SPEED",
+                    "id": 66,
+                    "name": "Gears",
+                    "valueType": 0
+                }
+            ],
+            "id": 1,
+            "name": "Engine and Drive Train",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/1",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "215/45 R17",
+                    "id": 25,
+                    "name": "Tyre Size Front",
+                    "valueType": 0
+                },
+                {
+                    "value": "215/45 R17",
+                    "id": 53,
+                    "name": "Tyre Size Rear",
+                    "valueType": 0
+                },
+                {
+                    "value": "TYRE REPAIR KIT",
+                    "id": 54,
+                    "name": "Tyre Size Spare",
+                    "valueType": 0
+                },
+                {
+                    "value": "17\" ALLOY",
+                    "id": 55,
+                    "name": "Wheel Type",
+                    "valueType": 0
+                },
+                {
+                    "value": "HURRICANE",
+                    "id": 69,
+                    "name": "Wheel Style",
+                    "valueType": 0
+                },
+                {
+                    "value": "True",
+                    "id": 119,
+                    "name": "Alloys?",
+                    "valueType": 3
+                },
+                {
+                    "value": "False",
+                    "id": 120,
+                    "name": "Space Saver?",
+                    "valueType": 3
+                }
+            ],
+            "id": 5,
+            "name": "Tyres",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/5",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "value": "120",
+                    "id": 67,
+                    "name": "CO2 (g/km)",
+                    "valueType": 1
+                },
+                {
+                    "value": "EURO 6",
+                    "id": 68,
+                    "name": "Standard Euro Emissions",
+                    "valueType": 0
+                },
+                {
+                    "value": "N",
+                    "id": 113,
+                    "name": "HC+NOx",
+                    "valueType": 2
+                },
+                {
+                    "value": "N",
+                    "id": 114,
+                    "name": "Particles",
+                    "valueType": 2
+                }
+            ],
+            "id": 4,
+            "name": "Emissions - ICE",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/4",
+                    "rel": "category"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

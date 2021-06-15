@@ -1,0 +1,111 @@
+{
+    "items": [
+        {
+            "minimumValue": 50.0,
+            "maximumValue": 200.0,
+            "id": 16,
+            "name": "Cylinders - Bore (mm)",
+            "valueType": 2
+        },
+        {
+            "minimumValue": 50.0,
+            "maximumValue": 200.0,
+            "id": 17,
+            "name": "Cylinders - Stroke (mm)",
+            "valueType": 2
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 20,
+            "name": "CC",
+            "valueType": 1
+        },
+        {
+            "minimumValue": 1.0,
+            "maximumValue": 14.0,
+            "id": 56,
+            "name": "Cylinders",
+            "valueType": 1
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 57,
+            "name": "Cylinder Layout",
+            "valueType": 0
+        },
+        {
+            "minimumValue": 1.0,
+            "maximumValue": 60.0,
+            "id": 58,
+            "name": "Number of Valves",
+            "valueType": 1
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 59,
+            "name": "Camshaft",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 60,
+            "name": "Fuel Delivery",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 61,
+            "name": "Catalytic Convertor",
+            "valueType": 3
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 62,
+            "name": "Engine Layout",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 63,
+            "name": "Compression Ratio",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 64,
+            "name": "Transmission",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 66,
+            "name": "Gears",
+            "valueType": 0
+        },
+        {
+            "minimumValue": null,
+            "maximumValue": null,
+            "id": 134,
+            "name": "Engine Code",
+            "valueType": 0
+        }
+    ],
+    "errors": [],
+    "id": 1,
+    "name": "Engine and Drive Train",
+    "links": [
+        {
+            "href": "/v1/car/technical-specification/categories/1",
+            "rel": "self"
+        }
+    ]
+}

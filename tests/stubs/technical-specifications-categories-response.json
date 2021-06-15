@@ -1,0 +1,146 @@
+{
+    "derivativeType": "Car",
+    "categories": [
+        {
+            "id": 1,
+            "name": "Engine and Drive Train",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/1",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Performance",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/2",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Fuel Consumption - ICE",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/3",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Emissions - ICE",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/4",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tyres",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/5",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vehicle Dimensions",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/6",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Weight and Capacities",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/7",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "General",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/8",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Electric Vehicle Data",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/100",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Test Cycles",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/101",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Emissions - PHEV",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/102",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Fuel Consumption - PHEV",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/103",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Fuel Cell Vehicle Data",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/104",
+                    "rel": "category"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Fuel Consumption - FCV",
+            "links": [
+                {
+                    "href": "/v1/car/technical-specification/categories/105",
+                    "rel": "category"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

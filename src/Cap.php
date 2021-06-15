@@ -20,6 +20,7 @@ use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
 use Totov\Cap\Subsets\FutureValuations\FutureValuations;
 use Totov\Cap\Subsets\MotHistory\MotHistory;
 use Totov\Cap\Subsets\SmmtData\SmmtData;
+use Totov\Cap\Subsets\TechnicalSpecification\TechnicalSpecification;
 use Totov\Cap\Subsets\VehicleDetails\VehicleDetails;
 use Totov\Cap\Subsets\VehicleKeepers\VehicleKeepers;
 
@@ -43,6 +44,7 @@ class Cap
     public DerivativeImages $derivativeImages;
     public MotHistory $motHistory;
     public DerivativeHierarchy $derivativeHierarchy;
+    public TechnicalSpecification $technicalSpecification;
 
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
@@ -61,6 +63,7 @@ class Cap
         $this->derivativeImages = new DerivativeImages($this);
         $this->motHistory = new MotHistory($this);
         $this->derivativeHierarchy = new DerivativeHierarchy($this);
+        $this->technicalSpecification = new TechnicalSpecification($this);
     }
 
     /**
