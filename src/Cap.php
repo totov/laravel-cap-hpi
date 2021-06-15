@@ -12,6 +12,7 @@ use Totov\Cap\Requests\VersionRequest;
 use Totov\Cap\Subsets\CheckFlags\CheckFlags;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
 use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
+use Totov\Cap\Subsets\DerivativeImages\DerivativeImages;
 use Totov\Cap\Subsets\DvlaData\DvlaData;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
@@ -37,6 +38,7 @@ class Cap
     public VehicleKeepers $vehicleKeepers;
     public DvlaData $dvlaData;
     public CheckFlags $checkFlags;
+    public DerivativeImages $derivativeImages;
 
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
@@ -52,6 +54,7 @@ class Cap
         $this->vehicleKeepers = new VehicleKeepers($this);
         $this->dvlaData = new DvlaData($this);
         $this->checkFlags = new CheckFlags($this);
+        $this->derivativeImages = new DerivativeImages($this);
     }
 
     /**

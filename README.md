@@ -86,6 +86,12 @@ $cap->checkFlags->byVrm('AB12CDE');
 $options = new FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
 $cap->futureValuations->byVrm('AB12CDE', $options);
 
+// Get derivative image for vehicle by VRM
+$response = $cap->derivativeImages->byVrm('SW16UPB');
+if ($response->successfull()) {
+    $imageContent = $response->body();
+    // ...
+}
 
 ```
 
