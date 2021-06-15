@@ -1,0 +1,20 @@
+{
+    "vin": "",
+    "vrm": "",
+    "resultOk": true,
+    "checks": {
+        "annotationsAvailable": true,
+        "capCodeAvailable": true,
+        "conditionInspected": false,
+        "finance": false,
+        "importantDvlaInformation": false,
+        "plateTransfer": true,
+        "security": false,
+        "stolen": false,
+        "valuationAvailable": true,
+        "insuranceWriteOffDamaged": false,
+        "insuranceWriteOffStolen": false
+    },
+    "links": null,
+    "errors": []
+}
