@@ -1,0 +1,2308 @@
+{
+    "model": {
+        "id": 43060,
+        "name": "A3 Sportback",
+        "links": [
+            {
+                "href": "/v1/car/models/43060/trims",
+                "rel": "trims"
+            },
+            {
+                "href": "/v1/car/models/43060/derivatives",
+                "rel": "derivatives"
+            }
+        ],
+        "errors": []
+    },
+    "derivatives": [
+        {
+            "derivativeType": "Car",
+            "capId": 47004,
+            "capCode": "AUA312   5HPTM  2",
+            "name": "1.2 T FSI 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47923,
+            "capCode": "AUA312   5HPTA  2",
+            "name": "1.2 T FSI 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47007,
+            "capCode": "AUA312SL 5HPTM  2",
+            "name": "1.2 T FSI S Line 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47926,
+            "capCode": "AUA312SL 5HPTA  2",
+            "name": "1.2 T FSI S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47005,
+            "capCode": "AUA312SE 5HPTM  2",
+            "name": "1.2 T FSI SE 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47924,
+            "capCode": "AUA312SE 5HPTA  2",
+            "name": "1.2 T FSI SE 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47006,
+            "capCode": "AUA312SPO5HPTM  2",
+            "name": "1.2 T FSI Sport 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 47925,
+            "capCode": "AUA312SPO5HPTA  2",
+            "name": "1.2 T FSI Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40290,
+            "capCode": "AUA314   5HPTM  2",
+            "name": "1.4 TFSI 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 43642,
+            "capCode": "AUA314SS 5HPTM  2",
+            "name": "1.4 TFSI 5dr [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40333,
+            "capCode": "AUA314   5HPTA  2",
+            "name": "1.4 TFSI 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 45471,
+            "capCode": "AUA314SS 5HPTA  2",
+            "name": "1.4 TFSI 5dr S Tronic [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40293,
+            "capCode": "AUA314SL 5HPTM  2",
+            "name": "1.4 TFSI S Line 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 43645,
+            "capCode": "AUA314LSS5HPTM  2",
+            "name": "1.4 TFSI S Line 5dr [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40336,
+            "capCode": "AUA314SL 5HPTA  2",
+            "name": "1.4 TFSI S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 45480,
+            "capCode": "AUA314LSS5HPTA  2",
+            "name": "1.4 TFSI S Line 5dr S Tronic [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40291,
+            "capCode": "AUA314SE 5HPTM  2",
+            "name": "1.4 TFSI SE 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 43643,
+            "capCode": "AUA314ESS5HPTM  2",
+            "name": "1.4 TFSI SE 5dr [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40334,
+            "capCode": "AUA314SE 5HPTA  2",
+            "name": "1.4 TFSI SE 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 45474,
+            "capCode": "AUA314ESS5HPTA  2",
+            "name": "1.4 TFSI SE 5dr S Tronic [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40292,
+            "capCode": "AUA314SPO5HPTM  2",
+            "name": "1.4 TFSI Sport 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 43644,
+            "capCode": "AUA314PSS5HPTM  2",
+            "name": "1.4 TFSI Sport 5dr [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40335,
+            "capCode": "AUA314SPO5HPTA  2",
+            "name": "1.4 TFSI Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 45477,
+            "capCode": "AUA314PSS5HPTA  2",
+            "name": "1.4 TFSI Sport 5dr S Tronic [Start Stop]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40286,
+            "capCode": "AUA316   5HPIM  2",
+            "name": "1.6 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40329,
+            "capCode": "AUA316   5HPIA  2",
+            "name": "1.6 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40289,
+            "capCode": "AUA316SL 5HPIM  2",
+            "name": "1.6 S Line 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40332,
+            "capCode": "AUA316SL 5HPIA  2",
+            "name": "1.6 S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40287,
+            "capCode": "AUA316SE 5HPIM  2",
+            "name": "1.6 SE 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40330,
+            "capCode": "AUA316SE 5HPIA  2",
+            "name": "1.6 SE 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40288,
+            "capCode": "AUA316SPO5HPIM  2",
+            "name": "1.6 Sport 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40331,
+            "capCode": "AUA316SPO5HPIA  2",
+            "name": "1.6 Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40294,
+            "capCode": "AUA318   5HPTM  2",
+            "name": "1.8 TFSI 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40337,
+            "capCode": "AUA318   5HPTA  2",
+            "name": "1.8 TFSI 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40297,
+            "capCode": "AUA318SL 5HPTM  2",
+            "name": "1.8 TFSI S Line 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40340,
+            "capCode": "AUA318SL 5HPTA  2",
+            "name": "1.8 TFSI S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40295,
+            "capCode": "AUA318SE 5HPTM  2",
+            "name": "1.8 TFSI SE 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40338,
+            "capCode": "AUA318SE 5HPTA  2",
+            "name": "1.8 TFSI SE 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40296,
+            "capCode": "AUA318SPO5HPTM  2",
+            "name": "1.8 TFSI Sport 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40339,
+            "capCode": "AUA318SPO5HPTA  2",
+            "name": "1.8 TFSI Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40298,
+            "capCode": "AUA320   5HPTM  2",
+            "name": "2.0 TFSI 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16097,
+                "name": ""
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16097",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40403,
+            "capCode": "AUA320SL 5HPTA4 2",
+            "name": "2.0 TFSI Quattro S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40402,
+            "capCode": "AUA320SPO5HPTA4 2",
+            "name": "2.0 TFSI Quattro Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40301,
+            "capCode": "AUA320SL 5HPTM  2",
+            "name": "2.0 TFSI S Line 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40344,
+            "capCode": "AUA320SL 5HPTA  2",
+            "name": "2.0 TFSI S Line 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16100,
+                "name": "S Line"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16100",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40299,
+            "capCode": "AUA320SE 5HPTM  2",
+            "name": "2.0 TFSI SE 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16098,
+                "name": "SE"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16098",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40300,
+            "capCode": "AUA320SPO5HPTM  2",
+            "name": "2.0 TFSI Sport 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40343,
+            "capCode": "AUA320SPO5HPTA  2",
+            "name": "2.0 TFSI Sport 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16099,
+                "name": "Sport"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16099",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 40308,
+            "capCode": "AUA320S3Q5HPTM4 2",
+            "name": "S3 Quattro 5dr",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16105,
+                "name": "S3"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16105",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 48011,
+            "capCode": "AUA320S3T5HPTM4 2",
+            "name": "S3 Quattro 5dr [Technology]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16105,
+                "name": "S3"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16105",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 41775,
+            "capCode": "AUA320S3Q5HPTA4 2",
+            "name": "S3 Quattro 5dr S Tronic",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16105,
+                "name": "S3"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16105",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "derivativeType": "Car",
+            "capId": 48012,
+            "capCode": "AUA320S3T5HPTA4 2",
+            "name": "S3 Quattro 5dr S Tronic [Technology]",
+            "brand": {
+                "id": 164,
+                "name": "AUDI"
+            },
+            "range": {
+                "id": 121,
+                "name": "A3"
+            },
+            "model": {
+                "id": 43060,
+                "name": "A3 SPORTBACK",
+                "introducedYear": 2008,
+                "discontinuedYear": 2013
+            },
+            "bodyStyle": "Hatchback",
+            "trim": {
+                "id": 16105,
+                "name": "S3"
+            },
+            "links": [
+                {
+                    "href": "/v1/car/trims/16105",
+                    "rel": "trim"
+                },
+                {
+                    "href": "/v1/car/models/43060",
+                    "rel": "model"
+                },
+                {
+                    "href": "/v1/car/ranges/121",
+                    "rel": "range"
+                },
+                {
+                    "href": "/v1/car/brands/164",
+                    "rel": "brand"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "errors": []
+}

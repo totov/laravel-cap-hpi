@@ -1,0 +1,6298 @@
+{
+    "id": 164,
+    "name": "Audi",
+    "models": [
+        {
+            "id": 189,
+            "name": "100 Avant (1983-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/189/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/189/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13689,
+            "name": "100 Avant (1991-1995)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13689/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13689/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13690,
+            "name": "100 Diesel Avant (1991-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13690/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13690/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 14340,
+            "name": "100 Diesel Avant (1985-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/14340/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/14340/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 212,
+            "name": "100 Diesel Saloon (1985-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/212/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/212/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 495,
+            "name": "100 Diesel Saloon (1991-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/495/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/495/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 165,
+            "name": "100 Saloon (1982-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/165/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/165/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 456,
+            "name": "100 Saloon (1991-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/456/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/456/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13697,
+            "name": "200 Estate (1987-1989)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13697/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13697/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 214,
+            "name": "200 Saloon (1980-1989)",
+            "links": [
+                {
+                    "href": "/v1/car/models/214/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/214/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13687,
+            "name": "80 Diesel Estate (1993-1996)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13687/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13687/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 239,
+            "name": "80 Diesel Saloon (1987-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/239/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/239/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 243,
+            "name": "80 Diesel Saloon (1982-1986)",
+            "links": [
+                {
+                    "href": "/v1/car/models/243/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/243/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 549,
+            "name": "80 Diesel Saloon (1991-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/549/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/549/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13679,
+            "name": "80 Estate (1993-1996)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13679/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13679/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 559,
+            "name": "80 Estate Special Edition (1994-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/559/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/559/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 220,
+            "name": "80 Saloon (1987-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/220/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/220/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 245,
+            "name": "80 Saloon (1983-1986)",
+            "links": [
+                {
+                    "href": "/v1/car/models/245/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/245/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 508,
+            "name": "80 Saloon (1991-1994)",
+            "links": [
+                {
+                    "href": "/v1/car/models/508/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/508/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 250,
+            "name": "90 Saloon (1987-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/250/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/250/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 264,
+            "name": "90 Saloon (1984-1986)",
+            "links": [
+                {
+                    "href": "/v1/car/models/264/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/264/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 50474,
+            "name": "A1 Diesel Hatchback (2010-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/50474/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/50474/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71694,
+            "name": "A1 Diesel Hatchback (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71694/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71694/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 58006,
+            "name": "A1 Diesel Sportback (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/58006/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/58006/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71708,
+            "name": "A1 Diesel Sportback (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71708/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71708/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 50473,
+            "name": "A1 Hatchback (2010-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/50473/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/50473/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71687,
+            "name": "A1 Hatchback (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71687/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71687/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 55557,
+            "name": "A1 Hatchback Special Editions (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/55557/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/55557/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77718,
+            "name": "A1 Hatchback Special Editions (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77718/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77718/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92163,
+            "name": "A1 Sportback (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92163/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92163/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57994,
+            "name": "A1 Sportback (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57994/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57994/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71701,
+            "name": "A1 Sportback (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71701/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71701/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61939,
+            "name": "A1 Sportback Special Editions (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61939/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61939/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92269,
+            "name": "A1 Sportback Special Editions (2018-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92269/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92269/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77717,
+            "name": "A1 Sportback Special Editions (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77717/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77717/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 20489,
+            "name": "A2 Diesel Hatchback (2000-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/20489/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/20489/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 20488,
+            "name": "A2 Hatchback (2000-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/20488/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/20488/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31527,
+            "name": "A2 Hatchback Special Editions (2005-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31527/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31527/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42323,
+            "name": "A3 Cabriolet (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42323/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42323/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 67155,
+            "name": "A3 Cabriolet (2014-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/67155/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/67155/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80349,
+            "name": "A3 Cabriolet (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80349/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80349/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45264,
+            "name": "A3 Cabriolet Special Editions (2009-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45264/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45264/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42322,
+            "name": "A3 Diesel Cabriolet (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42322/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42322/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80363,
+            "name": "A3 Diesel Cabriolet (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80363/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80363/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 67156,
+            "name": "A3 Diesel Cabriolet (2014-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/67156/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/67156/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80244,
+            "name": "A3 Diesel Hatchback (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80244/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80244/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60237,
+            "name": "A3 Diesel Hatchback (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60237/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60237/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 283,
+            "name": "A3 Diesel Hatchback (1997-2003)",
+            "links": [
+                {
+                    "href": "/v1/car/models/283/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/283/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 27067,
+            "name": "A3 Diesel Hatchback (2003-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/27067/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/27067/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43059,
+            "name": "A3 Diesel Hatchback (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43059/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43059/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66007,
+            "name": "A3 Diesel Saloon (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66007/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66007/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80326,
+            "name": "A3 Diesel Saloon (2016-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99255,
+            "name": "A3 Diesel Saloon (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/99255/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/99255/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98926,
+            "name": "A3 Diesel Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98926/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98926/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80287,
+            "name": "A3 Diesel Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80287/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80287/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61275,
+            "name": "A3 Diesel Sportback (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61275/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61275/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43061,
+            "name": "A3 Diesel Sportback (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43061/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43061/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 30687,
+            "name": "A3 Diesel Sportback (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/30687/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/30687/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 268,
+            "name": "A3 Hatchback (1996-2003)",
+            "links": [
+                {
+                    "href": "/v1/car/models/268/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/268/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 27066,
+            "name": "A3 Hatchback (2003-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/27066/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/27066/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60230,
+            "name": "A3 Hatchback (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60230/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60230/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43058,
+            "name": "A3 Hatchback (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43058/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43058/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80225,
+            "name": "A3 Hatchback (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80225/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80225/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82078,
+            "name": "A3 Hatchback Special Editions (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82078/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82078/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45315,
+            "name": "A3 Hatchback Special Editions (2009-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45315/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45315/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 28595,
+            "name": "A3 Hatchback Special Editions (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/28595/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/28595/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80313,
+            "name": "A3 Saloon (2016-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80313/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80313/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66006,
+            "name": "A3 Saloon (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66006/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66006/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99254,
+            "name": "A3 Saloon (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/99254/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/99254/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82186,
+            "name": "A3 Saloon Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82186/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82186/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100524,
+            "name": "A3 Saloon Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100524/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100524/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98925,
+            "name": "A3 Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98925/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98925/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61269,
+            "name": "A3 Sportback (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61269/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61269/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80267,
+            "name": "A3 Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80267/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80267/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 30674,
+            "name": "A3 Sportback (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/30674/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/30674/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43060,
+            "name": "A3 Sportback (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43060/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43060/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45326,
+            "name": "A3 Sportback Special Editions (2009-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31709,
+            "name": "A3 Sportback Special Editions (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31709/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31709/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82123,
+            "name": "A3 Sportback Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82123/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82123/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100523,
+            "name": "A3 Sportback Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100523/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100523/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 314,
+            "name": "A4 Avant (1996-2001)",
+            "links": [
+                {
+                    "href": "/v1/car/models/314/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/314/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 23080,
+            "name": "A4 Avant (2001-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/23080/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/23080/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31333,
+            "name": "A4 Avant (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31333/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31333/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42671,
+            "name": "A4 Avant (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42671/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42671/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57743,
+            "name": "A4 Avant (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57743/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57743/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77380,
+            "name": "A4 Avant (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77380/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77380/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91214,
+            "name": "A4 Avant (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91214/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91214/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95436,
+            "name": "A4 Avant (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95436/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95436/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 84979,
+            "name": "A4 Avant Special Editions (2017-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/84979/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/84979/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57774,
+            "name": "A4 Avant Special Editions (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57774/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57774/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 49141,
+            "name": "A4 Avant Special Editions (2010-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/49141/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/49141/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 36004,
+            "name": "A4 Avant Special Editions (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/36004/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/36004/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 28580,
+            "name": "A4 Avant Special Editions (2003-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/28580/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/28580/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 23938,
+            "name": "A4 Cabriolet (2001-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/23938/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/23938/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 35236,
+            "name": "A4 Cabriolet (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/35236/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/35236/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 41353,
+            "name": "A4 Cabriolet Special Editions (2007-2009)",
+            "links": [
+                {
+                    "href": "/v1/car/models/41353/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/41353/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57757,
+            "name": "A4 Diesel Avant (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57757/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57757/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42672,
+            "name": "A4 Diesel Avant (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42672/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42672/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31334,
+            "name": "A4 Diesel Avant (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31334/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31334/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 23081,
+            "name": "A4 Diesel Avant (2001-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/23081/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/23081/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 14336,
+            "name": "A4 Diesel Avant (1996-2001)",
+            "links": [
+                {
+                    "href": "/v1/car/models/14336/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/14336/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77391,
+            "name": "A4 Diesel Avant (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77391/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77391/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91241,
+            "name": "A4 Diesel Avant (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91241/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91241/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95454,
+            "name": "A4 Diesel Avant (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95454/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95454/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 35246,
+            "name": "A4 Diesel Cabriolet (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/35246/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/35246/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 25469,
+            "name": "A4 Diesel Cabriolet (2002-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/25469/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/25469/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 347,
+            "name": "A4 Diesel Saloon (1995-2001)",
+            "links": [
+                {
+                    "href": "/v1/car/models/347/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/347/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 21625,
+            "name": "A4 Diesel Saloon (2000-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/21625/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/21625/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31319,
+            "name": "A4 Diesel Saloon (2005-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31319/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31319/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 41203,
+            "name": "A4 Diesel Saloon (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/41203/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/41203/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57701,
+            "name": "A4 Diesel Saloon (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57701/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57701/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77362,
+            "name": "A4 Diesel Saloon (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77362/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77362/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91186,
+            "name": "A4 Diesel Saloon (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91186/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91186/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95418,
+            "name": "A4 Diesel Saloon (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95418/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95418/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95400,
+            "name": "A4 Saloon (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95400/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95400/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91159,
+            "name": "A4 Saloon (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91159/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91159/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 77351,
+            "name": "A4 Saloon (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/77351/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/77351/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 41202,
+            "name": "A4 Saloon (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/41202/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/41202/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57685,
+            "name": "A4 Saloon (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57685/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57685/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 290,
+            "name": "A4 Saloon (1995-2001)",
+            "links": [
+                {
+                    "href": "/v1/car/models/290/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/290/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 21624,
+            "name": "A4 Saloon (2000-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/21624/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/21624/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31318,
+            "name": "A4 Saloon (2005-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31318/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31318/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 28579,
+            "name": "A4 Saloon Special Editions (2003-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/28579/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/28579/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 33294,
+            "name": "A4 Saloon Special Editions (2005-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/33294/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/33294/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 49116,
+            "name": "A4 Saloon Special Editions (2010-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/49116/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/49116/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57719,
+            "name": "A4 Saloon Special Editions (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57719/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57719/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 84966,
+            "name": "A4 Saloon Special Editions (2017-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/84966/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/84966/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 46129,
+            "name": "A4 Allroad Estate (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/46129/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/46129/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57796,
+            "name": "A4 Allroad Estate (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57796/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57796/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80163,
+            "name": "A4 Allroad Estate (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80163/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80163/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91266,
+            "name": "A4 Allroad Estate (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91266/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91266/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95472,
+            "name": "A4 Allroad Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95472/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95472/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95475,
+            "name": "A4 Diesel Allroad Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95475/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95475/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91269,
+            "name": "A4 Diesel Allroad Estate (2018-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91269/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91269/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80166,
+            "name": "A4 Diesel Allroad Estate (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80166/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80166/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57799,
+            "name": "A4 Diesel Allroad Estate (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57799/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57799/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 46130,
+            "name": "A4 Diesel Allroad Estate (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/46130/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/46130/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45542,
+            "name": "A5 Cabriolet (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45542/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45542/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56910,
+            "name": "A5 Cabriolet (2011-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56910/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56910/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 83185,
+            "name": "A5 Cabriolet (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/83185/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/83185/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98389,
+            "name": "A5 Cabriolet (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98389/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98389/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98435,
+            "name": "A5 Cabriolet Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98435/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98435/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61989,
+            "name": "A5 Cabriolet Special Editions (2013-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61989/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61989/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 81498,
+            "name": "A5 Coupe (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/81498/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/81498/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56936,
+            "name": "A5 Coupe (2011-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56936/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56936/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 39535,
+            "name": "A5 Coupe (2007-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/39535/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/39535/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98326,
+            "name": "A5 Coupe (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98433,
+            "name": "A5 Coupe Special Editions (2020-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98433/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98433/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47361,
+            "name": "A5 Coupe Special Editions (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47361/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47361/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56973,
+            "name": "A5 Coupe Special Editions (2011-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56973/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56973/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56928,
+            "name": "A5 Diesel Cabriolet (2011-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56928/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56928/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45548,
+            "name": "A5 Diesel Cabriolet (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45548/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45548/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98397,
+            "name": "A5 Diesel Cabriolet (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98397/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98397/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 83186,
+            "name": "A5 Diesel Cabriolet (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/83186/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/83186/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98334,
+            "name": "A5 Diesel Coupe (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98334/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98334/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 39536,
+            "name": "A5 Diesel Coupe (2007-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/39536/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/39536/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56957,
+            "name": "A5 Diesel Coupe (2011-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56957/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56957/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 81508,
+            "name": "A5 Diesel Coupe (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/81508/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/81508/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56988,
+            "name": "A5 Diesel Sportback (2011-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56988/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56988/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47638,
+            "name": "A5 Diesel Sportback (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47638/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47638/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82214,
+            "name": "A5 Diesel Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82214/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82214/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98373,
+            "name": "A5 Diesel Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98373/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98373/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98346,
+            "name": "A5 Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98346/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98346/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82213,
+            "name": "A5 Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82213/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82213/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56987,
+            "name": "A5 Sportback (2011-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56987/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56987/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47632,
+            "name": "A5 Sportback (2009-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47632/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47632/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 58407,
+            "name": "A5 Sportback Special Editions (2012-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/58407/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/58407/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98434,
+            "name": "A5 Sportback Special Editions (2020-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98434/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98434/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 15048,
+            "name": "A6 Avant (1998-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/15048/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/15048/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31924,
+            "name": "A6 Avant (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31924/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31924/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44061,
+            "name": "A6 Avant (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44061/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44061/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56117,
+            "name": "A6 Avant (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56117/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56117/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70931,
+            "name": "A6 Avant (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70931/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70931/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92599,
+            "name": "A6 Avant (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92599/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92599/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70946,
+            "name": "A6 Avant Special Editions (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70946/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70946/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 62033,
+            "name": "A6 Avant Special Editions (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/62033/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/62033/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45172,
+            "name": "A6 Avant Special Editions (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45172/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45172/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31513,
+            "name": "A6 Avant Special Editions (2004-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31513/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31513/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 37570,
+            "name": "A6 Avant Special Editions (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/37570/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/37570/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31925,
+            "name": "A6 Diesel Avant (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31925/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31925/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 15049,
+            "name": "A6 Diesel Avant (1998-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/15049/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/15049/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44062,
+            "name": "A6 Diesel Avant (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44062/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44062/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 56120,
+            "name": "A6 Diesel Avant (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/56120/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/56120/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 91782,
+            "name": "A6 Diesel Avant (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/91782/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/91782/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70933,
+            "name": "A6 Diesel Avant (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70933/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70933/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13695,
+            "name": "A6 Diesel Estate (1994-1998)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13695/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13695/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 398,
+            "name": "A6 Diesel Saloon (1994-1997)",
+            "links": [
+                {
+                    "href": "/v1/car/models/398/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/398/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 18641,
+            "name": "A6 Diesel Saloon (1997-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/18641/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/18641/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 29620,
+            "name": "A6 Diesel Saloon (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/29620/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/29620/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44023,
+            "name": "A6 Diesel Saloon (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44023/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44023/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70911,
+            "name": "A6 Diesel Saloon (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70911/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70911/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 90035,
+            "name": "A6 Diesel Saloon (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/90035/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/90035/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 54055,
+            "name": "A6 Diesel Saloon (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/54055/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/54055/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 13694,
+            "name": "A6 Estate (1994-1998)",
+            "links": [
+                {
+                    "href": "/v1/car/models/13694/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/13694/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 357,
+            "name": "A6 Saloon (1994-1997)",
+            "links": [
+                {
+                    "href": "/v1/car/models/357/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/357/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 29615,
+            "name": "A6 Saloon (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/29615/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/29615/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 18640,
+            "name": "A6 Saloon (1997-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/18640/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/18640/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44022,
+            "name": "A6 Saloon (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44022/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44022/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92594,
+            "name": "A6 Saloon (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92594/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92594/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70909,
+            "name": "A6 Saloon (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70909/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70909/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 54054,
+            "name": "A6 Saloon (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/54054/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/54054/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45159,
+            "name": "A6 Saloon Special Editions (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45159/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45159/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 62026,
+            "name": "A6 Saloon Special Editions (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/62026/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/62026/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70924,
+            "name": "A6 Saloon Special Editions (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70924/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70924/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 37573,
+            "name": "A6 Saloon Special Editions (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/37573/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/37573/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 59221,
+            "name": "A6 Allroad Diesel Estate (2012-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/59221/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/59221/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70953,
+            "name": "A6 Allroad Diesel Estate (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70953/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70953/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 96454,
+            "name": "A6 Allroad Diesel Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/96454/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/96454/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44099,
+            "name": "A6 Allroad Diesel Estate (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44099/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44099/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45448,
+            "name": "A6 Allroad Diesel Estate Special Editions (2009-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45448/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45448/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 59219,
+            "name": "A6 Allroad Estate (2012-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/59219/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/59219/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44098,
+            "name": "A6 Allroad Estate (2008-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44098/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44098/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97962,
+            "name": "A6 Allroad Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97962/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97962/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 52457,
+            "name": "A7 Diesel Sportback (2010-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/52457/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/52457/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 69920,
+            "name": "A7 Diesel Sportback (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/69920/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/69920/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 88303,
+            "name": "A7 Diesel Sportback (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/88303/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/88303/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 52452,
+            "name": "A7 Sportback (2010-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/52452/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/52452/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 69919,
+            "name": "A7 Sportback (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/69919/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/69919/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 88298,
+            "name": "A7 Sportback (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/88298/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/88298/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 62168,
+            "name": "A7 Sportback Special Editions (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/62168/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/62168/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95557,
+            "name": "A7 Sportback Special Editions (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95557/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95557/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 69921,
+            "name": "A7 Sportback Special Editions (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/69921/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/69921/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 27208,
+            "name": "A8 Diesel Saloon (2003-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/27208/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/27208/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 41304,
+            "name": "A8 Diesel Saloon (2007-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/41304/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/41304/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 49549,
+            "name": "A8 Diesel Saloon (2010-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/49549/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/49549/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66790,
+            "name": "A8 Diesel Saloon (2014-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66790/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66790/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87854,
+            "name": "A8 Diesel Saloon (2017-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87854/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87854/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 25719,
+            "name": "A8 Saloon (2003-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/25719/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/25719/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87851,
+            "name": "A8 Saloon (2017-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87851/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87851/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66781,
+            "name": "A8 Saloon (2014-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66781/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66781/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 49544,
+            "name": "A8 Saloon (2010-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/49544/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/49544/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 41303,
+            "name": "A8 Saloon (2007-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/41303/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/41303/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 429,
+            "name": "A8 Saloon (1994-2002)",
+            "links": [
+                {
+                    "href": "/v1/car/models/429/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/429/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 24139,
+            "name": "A8 Saloon Special Edition (2002-2002)",
+            "links": [
+                {
+                    "href": "/v1/car/models/24139/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/24139/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 75795,
+            "name": "A8 Saloon Special Editions (2015-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/75795/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/75795/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 19973,
+            "name": "Allroad Diesel Estate (2000-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/19973/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/19973/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 36526,
+            "name": "Allroad Diesel Estate (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/36526/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/36526/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 38646,
+            "name": "Allroad Estate (2007-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/38646/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/38646/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 19970,
+            "name": "Allroad Estate (2000-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/19970/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/19970/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 29303,
+            "name": "Allroad Estate Special Editions (2004-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/29303/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/29303/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 439,
+            "name": "Cabriolet (1992-2000)",
+            "links": [
+                {
+                    "href": "/v1/car/models/439/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/439/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 14997,
+            "name": "Convertible (1997-1999)",
+            "links": [
+                {
+                    "href": "/v1/car/models/14997/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/14997/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 449,
+            "name": "Coupe (1984-1988)",
+            "links": [
+                {
+                    "href": "/v1/car/models/449/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/449/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 581,
+            "name": "Coupe (1988-1996)",
+            "links": [
+                {
+                    "href": "/v1/car/models/581/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/581/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 93444,
+            "name": "E-Tron Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/93444/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/93444/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 93471,
+            "name": "E-Tron Estate Special Editions (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/93471/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/93471/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98285,
+            "name": "E-Tron Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98285/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98285/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98287,
+            "name": "E-Tron Sportback Special Editions (2020-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98287/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98287/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103508,
+            "name": "E-Tron GT Saloon (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103508/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103508/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80973,
+            "name": "Q2 Diesel Estate (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80973/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80973/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 101519,
+            "name": "Q2 Diesel Estate (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/101519/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/101519/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 101521,
+            "name": "Q2 Estate (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/101521/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/101521/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80972,
+            "name": "Q2 Estate (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80972/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80972/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80975,
+            "name": "Q2 Estate Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80975/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80975/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 55576,
+            "name": "Q3 Diesel Estate (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/55576/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/55576/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71574,
+            "name": "Q3 Diesel Estate (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71574/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71574/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92234,
+            "name": "Q3 Diesel Estate (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92234/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92234/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97142,
+            "name": "Q3 Diesel Sportback (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97142/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97142/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92223,
+            "name": "Q3 Estate (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92223/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92223/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 55575,
+            "name": "Q3 Estate (2011-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/55575/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/55575/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71573,
+            "name": "Q3 Estate (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71573/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71573/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 67945,
+            "name": "Q3 Estate Special Editions (2014-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/67945/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/67945/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95377,
+            "name": "Q3 Estate Special Editions (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95377/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95377/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71635,
+            "name": "Q3 Estate Special Editions (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71635/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71635/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97141,
+            "name": "Q3 Sportback (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97141/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97141/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97143,
+            "name": "Q3 Sportback Special Editions (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97143/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97143/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103972,
+            "name": "Q4 E-Tron Estate (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103972/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103972/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103994,
+            "name": "Q4 E-Tron Estate Special Editions (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103994/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103994/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 104058,
+            "name": "Q4 E-Tron Sportback (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/104058/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/104058/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 104075,
+            "name": "Q4 E-Tron Sportback Special Editions (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/104075/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/104075/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44537,
+            "name": "Q5 Diesel Estate (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44537/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44537/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60325,
+            "name": "Q5 Diesel Estate (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60325/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60325/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82490,
+            "name": "Q5 Diesel Estate (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82490/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82490/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100130,
+            "name": "Q5 Diesel Estate (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100130/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100130/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 102450,
+            "name": "Q5 Diesel Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/102450/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/102450/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82486,
+            "name": "Q5 Estate (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82486/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82486/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100126,
+            "name": "Q5 Estate (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100126/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100126/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 44536,
+            "name": "Q5 Estate (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/44536/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/44536/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60324,
+            "name": "Q5 Estate (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60324/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60324/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 49103,
+            "name": "Q5 Estate Special Editions (2010-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/49103/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/49103/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60326,
+            "name": "Q5 Estate Special Editions (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100191,
+            "name": "Q5 Estate Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100191/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100191/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 102449,
+            "name": "Q5 Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/102449/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/102449/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 102451,
+            "name": "Q5 Sportback Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/102451/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/102451/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 35339,
+            "name": "Q7 Diesel Estate (2006-2009)",
+            "links": [
+                {
+                    "href": "/v1/car/models/35339/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/35339/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47090,
+            "name": "Q7 Diesel Estate (2009-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47090/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47090/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 73011,
+            "name": "Q7 Diesel Estate (2015-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/73011/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/73011/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 96606,
+            "name": "Q7 Diesel Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/96606/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/96606/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 96605,
+            "name": "Q7 Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/96605/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/96605/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 35338,
+            "name": "Q7 Estate (2006-2009)",
+            "links": [
+                {
+                    "href": "/v1/car/models/35338/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/35338/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47089,
+            "name": "Q7 Estate (2009-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47089/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47089/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 57656,
+            "name": "Q7 Estate Special Edition (2012-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/57656/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/57656/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 39681,
+            "name": "Q7 Estate Special Editions (2007-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/39681/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/39681/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 90648,
+            "name": "Q8 Diesel Estate (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/90648/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/90648/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94476,
+            "name": "Q8 Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94476/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94476/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 95370,
+            "name": "Q8 Estate Special Edition (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/95370/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/95370/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 601,
+            "name": "Quattro Coupe (1982-1991)",
+            "links": [
+                {
+                    "href": "/v1/car/models/601/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/601/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 38009,
+            "name": "R8 Coupe (2007-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/38009/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/38009/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61396,
+            "name": "R8 Coupe (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61396/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61396/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 73374,
+            "name": "R8 Coupe (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/73374/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/73374/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 93827,
+            "name": "R8 Coupe (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/93827/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/93827/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 93831,
+            "name": "R8 Coupe Special Editions (2019-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/93831/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/93831/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 69619,
+            "name": "R8 Coupe Special Editions (2014-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/69619/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/69619/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87058,
+            "name": "R8 Coupe Special Editions (2017-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87058/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87058/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 51944,
+            "name": "R8 Coupe Special Editions (2011-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/51944/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/51944/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 48863,
+            "name": "R8 Spyder (2010-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/48863/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/48863/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 81476,
+            "name": "R8 Spyder (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/81476/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/81476/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61403,
+            "name": "R8 Spyder (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61403/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61403/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 93833,
+            "name": "R8 Spyder (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/93833/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/93833/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87056,
+            "name": "R8 Spyder Special Editions (2017-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87056/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87056/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 58013,
+            "name": "R8 Spyder Special Editions (2012-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/58013/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/58013/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 69922,
+            "name": "RS 7 Sportback (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/69922/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/69922/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97727,
+            "name": "RS 7 Sportback (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97727/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97727/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98257,
+            "name": "RS 7 Sportback Special Edition (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98257/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98257/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103509,
+            "name": "RS E-Tron GT Saloon (2021-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103509/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103509/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66611,
+            "name": "RS Q3 Estate (2014-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66611/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66611/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71575,
+            "name": "RS Q3 Estate (2015-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71575/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71575/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97770,
+            "name": "RS Q3 Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97770/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97770/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97774,
+            "name": "RS Q3 Sportback (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97774/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97774/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98044,
+            "name": "RS Q8 Estate (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98044/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98044/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 86293,
+            "name": "RS 3 Saloon (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/86293/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/86293/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 73067,
+            "name": "RS 3 Sportback (2015-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/73067/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/73067/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 86291,
+            "name": "RS 3 Sportback (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/86291/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/86291/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 53921,
+            "name": "RS3 Sportback (2011-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/53921/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/53921/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94802,
+            "name": "RS 4 Avant (2019-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94802/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94802/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98217,
+            "name": "RS 4 Avant (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98217/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98217/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98256,
+            "name": "RS 4 Avant Special Edition (2019-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98256/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98256/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94831,
+            "name": "RS 4 Avant Special Edition (2019-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94831/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94831/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 19778,
+            "name": "RS4 Avant (2000-2001)",
+            "links": [
+                {
+                    "href": "/v1/car/models/19778/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/19778/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 36383,
+            "name": "RS4 Avant (2006-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/36383/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/36383/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60307,
+            "name": "RS4 Avant (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60307/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60307/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87519,
+            "name": "RS4 Avant (2017-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87519/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87519/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87773,
+            "name": "RS4 Avant Special Edition (2018-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87773/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87773/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70292,
+            "name": "RS4 Avant Special Edition (2014-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70292/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70292/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 36385,
+            "name": "RS4 Cabriolet (2006-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/36385/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/36385/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 32716,
+            "name": "RS4 Saloon (2005-2007)",
+            "links": [
+                {
+                    "href": "/v1/car/models/32716/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/32716/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 84956,
+            "name": "RS 5 Coupe (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/84956/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/84956/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98318,
+            "name": "RS 5 Coupe (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98318/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98318/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103832,
+            "name": "RS 5 Coupe Special Edition (2021-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103832/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103832/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 87607,
+            "name": "RS 5 Coupe Special Edition (2017-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/87607/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/87607/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94845,
+            "name": "RS 5 Sportback (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94845/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94845/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98314,
+            "name": "RS 5 Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98314/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98314/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94842,
+            "name": "RS 5 Sportback Special Edition (2019-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94842/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94842/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103833,
+            "name": "RS 5 Sportback Special Edition (2021-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103833/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103833/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61793,
+            "name": "RS5 Cabriolet (2013-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61793/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61793/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71486,
+            "name": "RS5 Cabriolet Special Edition (2014-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71486/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71486/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 50716,
+            "name": "RS5 Coupe (2010-2011)",
+            "links": [
+                {
+                    "href": "/v1/car/models/50716/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/50716/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 59053,
+            "name": "RS5 Coupe (2012-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/59053/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/59053/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71484,
+            "name": "RS5 Coupe Special Edition (2014-2015)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71484/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71484/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71417,
+            "name": "RS 6 Avant (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71417/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71417/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 97778,
+            "name": "RS 6 Avant (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/97778/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/97778/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98259,
+            "name": "RS 6 Avant Special Edition (2019-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98259/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98259/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 25010,
+            "name": "RS6 Avant (2002-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/25010/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/25010/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42442,
+            "name": "RS6 Avant (2008-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42442/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42442/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 63193,
+            "name": "RS6 Avant (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/63193/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/63193/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 50637,
+            "name": "RS6 Avant Special Edition (2010-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/50637/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/50637/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 29816,
+            "name": "RS6 Avant Special Editions (2004-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/29816/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/29816/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45124,
+            "name": "RS6 Saloon (2008-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45124/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45124/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 25008,
+            "name": "RS6 Saloon (2002-2004)",
+            "links": [
+                {
+                    "href": "/v1/car/models/25008/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/25008/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 50636,
+            "name": "RS6 Saloon Special Edition (2010-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/50636/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/50636/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 63652,
+            "name": "RS7 Sportback (2013-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/63652/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/63652/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 16834,
+            "name": "TT Coupe (1999-2006)",
+            "links": [
+                {
+                    "href": "/v1/car/models/16834/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/16834/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 36655,
+            "name": "TT Coupe (2006-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/36655/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/36655/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70371,
+            "name": "TT Coupe (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70371/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70371/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92194,
+            "name": "TT Coupe (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92194/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92194/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82016,
+            "name": "TT Coupe Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82016/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82016/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92426,
+            "name": "TT Coupe Special Editions (2018-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92426/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92426/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 23074,
+            "name": "TT Coupe Special Editions (2001-2005)",
+            "links": [
+                {
+                    "href": "/v1/car/models/23074/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/23074/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47348,
+            "name": "TT Coupe Special Editions (2009-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47348/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47348/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 70376,
+            "name": "TT Diesel Coupe (2014-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/70376/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/70376/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42738,
+            "name": "TT Diesel Coupe (2008-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42738/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42738/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42739,
+            "name": "TT Diesel Roadster (2008-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42739/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42739/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71263,
+            "name": "TT Diesel Roadster (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71263/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71263/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 71258,
+            "name": "TT Roadster (2015-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/71258/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/71258/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 39030,
+            "name": "TT Roadster (2007-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/39030/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/39030/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 18082,
+            "name": "TT Roadster (1999-2006)",
+            "links": [
+                {
+                    "href": "/v1/car/models/18082/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/18082/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92195,
+            "name": "TT Roadster (2018-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92195/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92195/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82024,
+            "name": "TT Roadster Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82024/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82024/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 92428,
+            "name": "TT Roadster Special Editions (2018-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/92428/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/92428/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 47338,
+            "name": "TT Roadster Special Editions (2009-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/47338/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/47338/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 81481,
+            "name": "TT RS Coupe (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/81481/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/81481/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 46952,
+            "name": "TT RS Coupe (2009-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/46952/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/46952/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94468,
+            "name": "TT RS Coupe (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94468/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94468/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 103822,
+            "name": "TT RS Coupe Special Editions (2021-2021)",
+            "links": [
+                {
+                    "href": "/v1/car/models/103822/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/103822/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60265,
+            "name": "TT RS Coupe Special Editions (2012-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60265/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60265/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 81483,
+            "name": "TT RS Roadster (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/81483/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/81483/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 46953,
+            "name": "TT RS Roadster (2009-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/46953/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/46953/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 94472,
+            "name": "TT RS Roadster (2019-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/94472/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/94472/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60266,
+            "name": "TT RS Roadster Special Editions (2012-2014)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60266/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60266/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 604,
+            "name": "V8 Saloon (1990-1993)",
+            "links": [
+                {
+                    "href": "/v1/car/models/604/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/604/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "ranges": [
+        {
+            "id": 1,
+            "name": "100",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 21,
+            "name": "200",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/21/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 89,
+            "name": "80",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/89/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99,
+            "name": "90",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/99/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1049,
+            "name": "A1",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1049/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 562,
+            "name": "A2",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/562/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 121,
+            "name": "A3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/121/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 122,
+            "name": "A4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/122/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1029,
+            "name": "A4 Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1029/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 899,
+            "name": "A5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/899/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 123,
+            "name": "A6",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/123/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1028,
+            "name": "A6 Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1028/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1069,
+            "name": "A7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1069/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 124,
+            "name": "A8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/124/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 571,
+            "name": "Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/571/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 162,
+            "name": "Cabriolet",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/162/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 201,
+            "name": "Convertible",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/201/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 211,
+            "name": "Coupe",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/211/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1423,
+            "name": "E-Tron",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1423/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1506,
+            "name": "E-Tron GT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1506/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1320,
+            "name": "Q2",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1320/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1095,
+            "name": "Q3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1095/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1513,
+            "name": "Q4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1513/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 966,
+            "name": "Q5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/966/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 841,
+            "name": "Q7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/841/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1382,
+            "name": "Q8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1382/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 394,
+            "name": "Quattro",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/394/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 878,
+            "name": "R8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/878/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1258,
+            "name": "RS 7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1258/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1512,
+            "name": "RS E-Tron GT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1512/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1203,
+            "name": "RS Q3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1203/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1452,
+            "name": "RS Q8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1452/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1081,
+            "name": "RS3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1081/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 567,
+            "name": "RS4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/567/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1054,
+            "name": "RS5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1054/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 682,
+            "name": "RS6",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/682/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1175,
+            "name": "RS7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1175/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 505,
+            "name": "TT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/505/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 516,
+            "name": "V8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/516/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "links": [
+        {
+            "href": "/v1/car/brands/164/ranges",
+            "rel": "ranges"
+        },
+        {
+            "href": "/v1/car/brands/164/models",
+            "rel": "models"
+        }
+    ],
+    "errors": []
+}

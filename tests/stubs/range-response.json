@@ -1,0 +1,643 @@
+{
+    "models": [
+        {
+            "id": 42323,
+            "name": "A3 Cabriolet (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42323/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42323/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 67155,
+            "name": "A3 Cabriolet (2014-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/67155/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/67155/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80349,
+            "name": "A3 Cabriolet (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80349/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80349/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45264,
+            "name": "A3 Cabriolet Special Editions (2009-2010)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45264/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45264/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 42322,
+            "name": "A3 Diesel Cabriolet (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/42322/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/42322/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80363,
+            "name": "A3 Diesel Cabriolet (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80363/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80363/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 67156,
+            "name": "A3 Diesel Cabriolet (2014-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/67156/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/67156/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80244,
+            "name": "A3 Diesel Hatchback (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80244/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80244/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60237,
+            "name": "A3 Diesel Hatchback (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60237/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60237/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 283,
+            "name": "A3 Diesel Hatchback (1997-2003)",
+            "links": [
+                {
+                    "href": "/v1/car/models/283/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/283/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 27067,
+            "name": "A3 Diesel Hatchback (2003-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/27067/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/27067/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43059,
+            "name": "A3 Diesel Hatchback (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43059/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43059/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66007,
+            "name": "A3 Diesel Saloon (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66007/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66007/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80326,
+            "name": "A3 Diesel Saloon (2016-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99255,
+            "name": "A3 Diesel Saloon (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/99255/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/99255/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98926,
+            "name": "A3 Diesel Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98926/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98926/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80287,
+            "name": "A3 Diesel Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80287/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80287/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61275,
+            "name": "A3 Diesel Sportback (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61275/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61275/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43061,
+            "name": "A3 Diesel Sportback (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43061/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43061/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 30687,
+            "name": "A3 Diesel Sportback (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/30687/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/30687/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 268,
+            "name": "A3 Hatchback (1996-2003)",
+            "links": [
+                {
+                    "href": "/v1/car/models/268/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/268/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 27066,
+            "name": "A3 Hatchback (2003-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/27066/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/27066/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 60230,
+            "name": "A3 Hatchback (2012-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/60230/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/60230/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43058,
+            "name": "A3 Hatchback (2008-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43058/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43058/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80225,
+            "name": "A3 Hatchback (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80225/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80225/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82078,
+            "name": "A3 Hatchback Special Editions (2016-2017)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82078/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82078/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45315,
+            "name": "A3 Hatchback Special Editions (2009-2012)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45315/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45315/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 28595,
+            "name": "A3 Hatchback Special Editions (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/28595/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/28595/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80313,
+            "name": "A3 Saloon (2016-2019)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80313/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80313/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 66006,
+            "name": "A3 Saloon (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/66006/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/66006/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99254,
+            "name": "A3 Saloon (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/99254/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/99254/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82186,
+            "name": "A3 Saloon Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82186/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82186/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100524,
+            "name": "A3 Saloon Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100524/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100524/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 98925,
+            "name": "A3 Sportback (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/98925/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/98925/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 61269,
+            "name": "A3 Sportback (2013-2016)",
+            "links": [
+                {
+                    "href": "/v1/car/models/61269/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/61269/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 80267,
+            "name": "A3 Sportback (2016-2020)",
+            "links": [
+                {
+                    "href": "/v1/car/models/80267/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/80267/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 30674,
+            "name": "A3 Sportback (2004-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/30674/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/30674/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 43060,
+            "name": "A3 Sportback (2008-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/43060/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/43060/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 45326,
+            "name": "A3 Sportback Special Editions (2009-2013)",
+            "links": [
+                {
+                    "href": "/v1/car/models/45326/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/45326/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 31709,
+            "name": "A3 Sportback Special Editions (2005-2008)",
+            "links": [
+                {
+                    "href": "/v1/car/models/31709/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/31709/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 82123,
+            "name": "A3 Sportback Special Editions (2016-2018)",
+            "links": [
+                {
+                    "href": "/v1/car/models/82123/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/82123/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 100523,
+            "name": "A3 Sportback Special Editions (2020-)",
+            "links": [
+                {
+                    "href": "/v1/car/models/100523/trims",
+                    "rel": "trims"
+                },
+                {
+                    "href": "/v1/car/models/100523/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "id": 121,
+    "name": "A3",
+    "links": [
+        {
+            "href": "/v1/car/ranges/121/models",
+            "rel": "models"
+        }
+    ],
+    "errors": []
+}

@@ -1,0 +1,31 @@
+{
+    "model": {
+        "id": 121,
+        "name": "Spider Convertible",
+        "links": [
+            {
+                "href": "/v1/car/models/121/trims",
+                "rel": "trims"
+            },
+            {
+                "href": "/v1/car/models/121/derivatives",
+                "rel": "derivatives"
+            }
+        ],
+        "errors": []
+    },
+    "trims": [
+        {
+            "id": 6800,
+            "name": "",
+            "links": [
+                {
+                    "href": "/v1/car/trims/6800/derivatives",
+                    "rel": "derivatives"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "errors": []
+}

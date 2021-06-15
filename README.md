@@ -105,6 +105,25 @@ $cap->motHistory->byVrm('AB12CDE', true);
 // Or all MOT history for vehicle by VRM
 $cap->motHistory->byVrm('AB12CDE');
 
+// Get brands info
+$cap->derivativeHierarchy->brands->byDerivativeType('cars');
+$cap->derivativeHierarchy->brands->byDerivativeTypeAndBrandId('cars', 25545);
+
+// Get ranges info
+$cap->derivativeHierarchy->ranges->byDerivativeTypeAndBrandId('cars', 25545);
+$cap->derivativeHierarchy->ranges->byDerivativeTypeAndRangeId('cars', 89);
+
+// Get model info
+$cap->derivativeHierarchy->models->byDerivativeTypeAndBrandId('cars', 25545);
+$cap->derivativeHierarchy->models->byDerivativeTypeAndRangeId('cars', 89);
+$cap->derivativeHierarchy->models->byDerivativeTypeAndModelId('cars', 25547);
+
+// Get trim info
+ $cap->derivativeHierarchy->trims->byDerivativeTypeAndModelId('cars', 25547);
+
+// Get derivatives
+ $cap->derivativeHierarchy->derivatives->byDerivativeTypeAndModelId('cars', 25547);$cap->derivativeHierarchy->derivatives->byDerivativeTypeAndTrimId('cars', 10619);
+
 ```
 
 Examples above use VRM, but lookups can be performed using the VIN (or a combination of VIN & VRM) as per the documentation, just use `->byVin()` or `->byVinAndVRM()` instead.

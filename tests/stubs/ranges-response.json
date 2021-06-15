@@ -1,0 +1,449 @@
+{
+    "brand": {
+        "id": 164,
+        "name": "Audi",
+        "links": [
+            {
+                "href": "/v1/car/brands/164/ranges",
+                "rel": "ranges"
+            },
+            {
+                "href": "/v1/car/brands/164/models",
+                "rel": "models"
+            }
+        ],
+        "errors": []
+    },
+    "ranges": [
+        {
+            "id": 1,
+            "name": "100",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 21,
+            "name": "200",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/21/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 89,
+            "name": "80",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/89/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 99,
+            "name": "90",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/99/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1049,
+            "name": "A1",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1049/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 562,
+            "name": "A2",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/562/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 121,
+            "name": "A3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/121/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 122,
+            "name": "A4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/122/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1029,
+            "name": "A4 Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1029/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 899,
+            "name": "A5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/899/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 123,
+            "name": "A6",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/123/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1028,
+            "name": "A6 Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1028/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1069,
+            "name": "A7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1069/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 124,
+            "name": "A8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/124/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 571,
+            "name": "Allroad",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/571/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 162,
+            "name": "Cabriolet",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/162/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 201,
+            "name": "Convertible",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/201/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 211,
+            "name": "Coupe",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/211/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1423,
+            "name": "E-Tron",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1423/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1506,
+            "name": "E-Tron GT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1506/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1320,
+            "name": "Q2",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1320/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1095,
+            "name": "Q3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1095/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1513,
+            "name": "Q4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1513/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 966,
+            "name": "Q5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/966/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 841,
+            "name": "Q7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/841/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1382,
+            "name": "Q8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1382/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 394,
+            "name": "Quattro",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/394/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 878,
+            "name": "R8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/878/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1258,
+            "name": "RS 7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1258/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1512,
+            "name": "RS E-Tron GT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1512/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1203,
+            "name": "RS Q3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1203/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1452,
+            "name": "RS Q8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1452/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1081,
+            "name": "RS3",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1081/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 567,
+            "name": "RS4",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/567/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1054,
+            "name": "RS5",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1054/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 682,
+            "name": "RS6",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/682/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 1175,
+            "name": "RS7",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/1175/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 505,
+            "name": "TT",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/505/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 516,
+            "name": "V8",
+            "links": [
+                {
+                    "href": "/v1/car/ranges/516/models",
+                    "rel": "models"
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "errors": []
+}
