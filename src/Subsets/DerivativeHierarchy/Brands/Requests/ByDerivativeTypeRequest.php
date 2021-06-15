@@ -5,9 +5,9 @@ namespace Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests;
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 
-class ByDerivativeTypeAndBrandId extends Request
+class ByDerivativeTypeRequest extends Request
 {
-    public function __construct(protected string $accessToken, protected string $derivativeType, protected int $brandId)
+    public function __construct(protected string $accessToken, protected string $derivativeType)
     {
         $this->method = Request::METHOD_GET;
     }
@@ -16,6 +16,6 @@ class ByDerivativeTypeAndBrandId extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/{$this->derivativeType}/brands/{$this->brandId}";
+        return "https://api.cap-hpi.co.uk/v{$version}/{$this->derivativeType}/brands";
     }
 }

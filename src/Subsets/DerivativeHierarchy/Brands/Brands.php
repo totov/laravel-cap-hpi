@@ -3,8 +3,8 @@
 namespace Totov\Cap\Subsets\DerivativeHierarchy\Brands;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeType;
-use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeAndBrandId;
+use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeRequest;
+use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeAndBrandIdRequest;
 use Totov\Cap\Subsets\Subset;
 
 class Brands extends Subset
@@ -15,7 +15,7 @@ class Brands extends Subset
     public function byDerivativeType(string $derivativeType): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByDerivativeType($token, $derivativeType))->send();
+        $response = (new ByDerivativeTypeRequest($token, $derivativeType))->send();
 
         return $response->json();
     }
@@ -26,7 +26,7 @@ class Brands extends Subset
     public function byDerivativeTypeAndBrandId(string $derivativeType, int $brandId): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByDerivativeTypeAndBrandId($token, $derivativeType, $brandId))->send();
+        $response = (new ByDerivativeTypeAndBrandIdRequest($token, $derivativeType, $brandId))->send();
 
         return $response->json();
     }

@@ -1,11 +1,11 @@
 <?php
 
-namespace Totov\Cap\Subsets\DerivativeHierarchy\Derivatives\Requests;
+namespace Totov\Cap\Subsets\DerivativeHierarchy\Models\Requests;
 
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 
-class ByDerivativeTypeAndModelId extends Request
+class ByDerivativeTypeAndModelIdRequest extends Request
 {
     public function __construct(protected string $accessToken, protected string $derivativeType, protected int $modelId)
     {
@@ -16,6 +16,6 @@ class ByDerivativeTypeAndModelId extends Request
     {
         $version = Cap::VERSION;
 
-        return "https://api.cap-hpi.co.uk/v{$version}/{$this->derivativeType}/models/{$this->modelId}/derivatives";
+        return "https://api.cap-hpi.co.uk/v{$version}/{$this->derivativeType}/models/{$this->modelId}";
     }
 }

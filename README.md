@@ -119,10 +119,19 @@ $cap->derivativeHierarchy->models->byDerivativeTypeAndRangeId('cars', 89);
 $cap->derivativeHierarchy->models->byDerivativeTypeAndModelId('cars', 25547);
 
 // Get trim info
- $cap->derivativeHierarchy->trims->byDerivativeTypeAndModelId('cars', 25547);
+$cap->derivativeHierarchy->trims->byDerivativeTypeAndModelId('cars', 25547);
 
 // Get derivatives
- $cap->derivativeHierarchy->derivatives->byDerivativeTypeAndModelId('cars', 25547);$cap->derivativeHierarchy->derivatives->byDerivativeTypeAndTrimId('cars', 10619);
+$cap->derivativeHierarchy->derivatives->byDerivativeTypeAndModelId('cars', 25547);
+$cap->derivativeHierarchy->derivatives->byDerivativeTypeAndTrimId('cars', 10619);
+
+// Get technical spec categories
+$cap->technicalSpecification->categories->byDerivativeType('cars');
+$cap->technicalSpecification->categories->byDerivativeTypeAndCategoryId('cars', 8);
+
+// Get technical specs for vehicle by VRM
+
+// Get technical specs for vehicle by VRM with filter on returned items
 
 ```
 

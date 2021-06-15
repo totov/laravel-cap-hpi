@@ -5,7 +5,7 @@ namespace Totov\Cap\Subsets\DerivativeHierarchy\Derivatives\Requests;
 use Totov\Cap\Cap;
 use Totov\Cap\Requests\Request;
 
-class ByDerivativeTypeAndTrimId extends Request
+class ByDerivativeTypeAndTrimIdRequest extends Request
 {
     public function __construct(protected string $accessToken, protected string $derivativeType, protected int $trimId)
     {

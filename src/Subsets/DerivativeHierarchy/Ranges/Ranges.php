@@ -3,8 +3,8 @@
 namespace Totov\Cap\Subsets\DerivativeHierarchy\Ranges;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\DerivativeHierarchy\Ranges\Requests\ByDerivativeTypeAndBrandId;
-use Totov\Cap\Subsets\DerivativeHierarchy\Ranges\Requests\ByDerivativeTypeAndRangeId;
+use Totov\Cap\Subsets\DerivativeHierarchy\Ranges\Requests\ByDerivativeTypeAndBrandIdRequest;
+use Totov\Cap\Subsets\DerivativeHierarchy\Ranges\Requests\ByDerivativeTypeAndRangeIdRequest;
 use Totov\Cap\Subsets\Subset;
 
 class Ranges extends Subset
@@ -15,7 +15,7 @@ class Ranges extends Subset
     public function byDerivativeTypeAndBrandId(string $derivativeType, int $brandId): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByDerivativeTypeAndBrandId($token, $derivativeType, $brandId))->send();
+        $response = (new ByDerivativeTypeAndBrandIdRequest($token, $derivativeType, $brandId))->send();
 
         return $response->json();
     }
@@ -26,7 +26,7 @@ class Ranges extends Subset
     public function byDerivativeTypeAndRangeId(string $derivativeType, int $rangeId): array
     {
         $token = $this->cap->getValidToken();
-        $response = (new ByDerivativeTypeAndRangeId($token, $derivativeType, $rangeId))->send();
+        $response = (new ByDerivativeTypeAndRangeIdRequest($token, $derivativeType, $rangeId))->send();
 
         return $response->json();
     }
