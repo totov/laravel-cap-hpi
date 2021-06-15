@@ -13,6 +13,7 @@ use Totov\Cap\Subsets\CurrentValuations\CurrentValuations;
 use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
+use Totov\Cap\Subsets\SmmtData\SmmtData;
 use Totov\Cap\Subsets\VehicleDetails\VehicleDetails;
 
 class Cap
@@ -27,6 +28,7 @@ class Cap
     public CurrentValuations $currentValuations;
     public DerivativeDetails $derivativeDetails;
     public VehicleDetails $vehicleDetails;
+    public SmmtData $smmtData;
 
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
@@ -37,6 +39,7 @@ class Cap
         $this->currentValuations = new CurrentValuations($this);
         $this->derivativeDetails = new DerivativeDetails($this);
         $this->vehicleDetails = new VehicleDetails($this);
+        $this->smmtData = new SmmtData($this);
     }
 
     /**

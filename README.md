@@ -64,6 +64,9 @@ $cap->derivativeDetails->byVrm('AB12CDE');
 
 // Get vehicle details by VRM
 $cap->vehicleDetails->byVrm('AB12CDE');
+
+// Get vehicle SMMT data by VRM
+$cap->smmtData->byVrm('AB12CDE');
 ```
 
 ## Testing
@@ -75,6 +78,11 @@ composer test
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+## Roadmap
+
+- More in-depth testing per endpoint
+- Use DataTransferObjects instead of returning JSON
 
 ## Contributing
 

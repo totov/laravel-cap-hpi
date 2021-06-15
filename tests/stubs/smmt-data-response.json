@@ -1,0 +1,36 @@
+{
+    "vin": "",
+    "vrm": "",
+    "smmtData": {
+        "doorPlanCode": "B",
+        "marketSectorCode": "AA",
+        "makeCode": "F9",
+        "modelCode": "CD",
+        "co2Rating": 120,
+        "maxTechnicalMass": 1600,
+        "powerWeightRatio": 0.0,
+        "maxNetPower": 66,
+        "seatCapacity": 5,
+        "registrationDate": "2016-07-13",
+        "userField": "0019THRL6",
+        "salesTypeCode": null,
+        "bodyTypeCode": "02",
+        "serialNumber": null,
+        "reregistrationFlag": null,
+        "trailer": {
+            "maxTowBraked": 800,
+            "maxTowUnbraked": 550
+        },
+        "soundLevel": {
+            "stationary": 82,
+            "engine": 3750,
+            "driveBy": 70
+        },
+        "mvris": {
+            "makeCode": "D0",
+            "modelCode": "JUC"
+        }
+    },
+    "links": null,
+    "errors": []
+}
