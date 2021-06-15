@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\DvlaData;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\Subset;
 use Totov\Cap\Subsets\DvlaData\Requests\ByVinAndVrmRequest;
 use Totov\Cap\Subsets\DvlaData\Requests\ByVinRequest;
 use Totov\Cap\Subsets\DvlaData\Requests\ByVrmRequest;
+use Totov\Cap\Subsets\Subset;
 
 class DvlaData extends Subset
 {

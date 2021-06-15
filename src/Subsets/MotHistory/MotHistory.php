@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\MotHistory;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\Subset;
 use Totov\Cap\Subsets\MotHistory\Requests\ByVinAndVrmRequest;
 use Totov\Cap\Subsets\MotHistory\Requests\ByVinRequest;
 use Totov\Cap\Subsets\MotHistory\Requests\ByVrmRequest;
+use Totov\Cap\Subsets\Subset;
 
 class MotHistory extends Subset
 {

@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\SmmtData;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\Subset;
 use Totov\Cap\Subsets\SmmtData\Requests\ByVinAndVrmRequest;
 use Totov\Cap\Subsets\SmmtData\Requests\ByVinRequest;
 use Totov\Cap\Subsets\SmmtData\Requests\ByVrmRequest;
+use Totov\Cap\Subsets\Subset;
 
 class SmmtData extends Subset
 {

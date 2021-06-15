@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\CheckFlags;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\Subset;
 use Totov\Cap\Subsets\CheckFlags\Requests\ByVinAndVrmRequest;
 use Totov\Cap\Subsets\CheckFlags\Requests\ByVinRequest;
 use Totov\Cap\Subsets\CheckFlags\Requests\ByVrmRequest;
+use Totov\Cap\Subsets\Subset;
 
 class CheckFlags extends Subset
 {
