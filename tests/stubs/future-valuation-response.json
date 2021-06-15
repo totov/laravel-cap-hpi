@@ -1,0 +1,28 @@
+{
+    "vin": "",
+    "vrm": "",
+    "derivativeType": "Car",
+    "capId": 0,
+    "registrationDate": "2016-07-13",
+    "plate": {
+        "year": 2016,
+        "month": 3
+    },
+    "valuations": [
+        {
+            "valuationType": "TradeClean",
+            "valuationPoints": [
+                {
+                    "mileage": 50000,
+                    "publicationDate": "2021-06-01",
+                    "valuationDate": "2021-12-15",
+                    "value": 4400
+                }
+            ]
+        }
+    ],
+    "valuationTypes": [
+        "TradeClean"
+    ],
+    "errors": []
+}

@@ -33,7 +33,10 @@ return [
 ## Usage
 
 ```php
-use Totov\Cap\Cap;use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;use Totov\Cap\Subsets\FullVehicleData\Options;use Totov\Cap\Subsets\FutureValuations\FutureValuationOptions;
+use Totov\Cap\Cap;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
+use Totov\Cap\Subsets\FutureValuations\FutureValuationOptions;
+use Totov\Cap\Subsets\FullVehicleData\Options;
 
 // Initialise cap with client ID and secret
 $clientId = config('cap.client_id');
@@ -78,6 +81,12 @@ $cap->dvlaData->byVrm('AB12CDE');
 
 // Perform flag check lookup by VRM
 $cap->checkFlags->byVrm('AB12CDE');
+
+// Get future valuation for vehicle by VRM
+$options = new FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
+$cap->futureValuations->byVrm('AB12CDE', $options);
+
+
 ```
 
 Examples above use VRM, but lookups can be performed using the VIN (or a combination of VIN & VRM) as per the documentation, just use `->byVin()` or `->byVinAndVRM()` instead.
@@ -96,6 +105,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 - More in-depth testing per endpoint
 - Use DataTransferObjects instead of returning JSON
+- Automatically inject token into relevant requests
 
 ## Contributing
 

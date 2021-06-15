@@ -2,8 +2,8 @@
 
 namespace Totov\Cap\Subsets\FullVehicleData;
 
-use Totov\Cap\FutureValuationOptions;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
+use Totov\Cap\Subsets\FutureValuations\FutureValuationOptions;
 
 class Options
 {

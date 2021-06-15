@@ -1,6 +1,6 @@
 <?php
 
-namespace Totov\Cap;
+namespace Totov\Cap\Subsets\FutureValuations;
 
 class FutureValuationOptions
 {

@@ -15,6 +15,7 @@ use Totov\Cap\Subsets\DerivativeDetails\DerivativeDetails;
 use Totov\Cap\Subsets\DvlaData\DvlaData;
 use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
+use Totov\Cap\Subsets\FutureValuations\FutureValuations;
 use Totov\Cap\Subsets\SmmtData\SmmtData;
 use Totov\Cap\Subsets\VehicleDetails\VehicleDetails;
 use Totov\Cap\Subsets\VehicleKeepers\VehicleKeepers;
@@ -29,6 +30,7 @@ class Cap
     public Equipment $equipment;
     public FullVehicleData $fullVehicleData;
     public CurrentValuations $currentValuations;
+    public FutureValuations $futureValuations;
     public DerivativeDetails $derivativeDetails;
     public VehicleDetails $vehicleDetails;
     public SmmtData $smmtData;
@@ -43,6 +45,7 @@ class Cap
         $this->equipment = new Equipment($this);
         $this->fullVehicleData = new FullVehicleData($this);
         $this->currentValuations = new CurrentValuations($this);
+        $this->futureValuations = new FutureValuations($this);
         $this->derivativeDetails = new DerivativeDetails($this);
         $this->vehicleDetails = new VehicleDetails($this);
         $this->smmtData = new SmmtData($this);

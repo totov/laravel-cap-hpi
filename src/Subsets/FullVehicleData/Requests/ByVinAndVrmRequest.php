@@ -3,10 +3,10 @@
 namespace Totov\Cap\Subsets\FullVehicleData\Requests;
 
 use Totov\Cap\Cap;
-use Totov\Cap\FutureValuationOptions;
 use Totov\Cap\Requests\Request;
 use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
 use Totov\Cap\Subsets\FullVehicleData\Options;
+use Totov\Cap\Subsets\FutureValuations\FutureValuationOptions;
 
 class ByVinAndVrmRequest extends Request
 {
