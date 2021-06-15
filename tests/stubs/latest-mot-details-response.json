@@ -1,0 +1,23 @@
+{
+    "errors": [],
+    "vrm": "",
+    "motHistory": {
+        "registration": "",
+        "make": "VAUXHALL",
+        "model": "CORSA",
+        "firstUsedDate": "2016-07-13",
+        "fuelType": "Petrol",
+        "primaryColour": "Black",
+        "motTests": [
+            {
+                "completedDate": "2020-08-13",
+                "testResult": "PASSED",
+                "expiryDate": "2021-08-12",
+                "odometerValue": 28465,
+                "odometerUnit": "mi",
+                "motTestNumber": "377505847493",
+                "rfrAndComments": []
+            }
+        ]
+    }
+}

@@ -87,11 +87,17 @@ $options = new FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'val
 $cap->futureValuations->byVrm('AB12CDE', $options);
 
 // Get derivative image for vehicle by VRM
-$response = $cap->derivativeImages->byVrm('SW16UPB');
+$response = $cap->derivativeImages->byVrm('AB12CDE');
 if ($response->successfull()) {
     $imageContent = $response->body();
     // ...
 }
+
+// Get latest MOT details for vehicle by VRM
+$cap->motHistory->byVrm('AB12CDE', true);
+
+// Or all MOT history for vehicle by VRM
+$cap->motHistory->byVrm('AB12CDE');
 
 ```
 
