@@ -373,19 +373,19 @@
     },
     "links": [
         {
-            "href": "/v1/vrms/SW16UPB/derivative",
+            "href": "/v1/vrms/AB12CDE/derivative",
             "rel": "derivative-details"
         },
         {
-            "href": "/v1/vrms/SW16UPB/checks",
+            "href": "/v1/vrms/AB12CDE/checks",
             "rel": "vehicle-check-flags"
         },
         {
-            "href": "/v1/vrms/SW16UPB/dvla",
+            "href": "/v1/vrms/AB12CDE/dvla",
             "rel": "vehicle-dvla"
         },
         {
-            "href": "/v1/vrms/SW16UPB/smmt",
+            "href": "/v1/vrms/AB12CDE/smmt",
             "rel": "vehicle-smmt"
         }
     ],
