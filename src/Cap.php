@@ -15,6 +15,7 @@ use Totov\Cap\Subsets\Equipment\Equipment;
 use Totov\Cap\Subsets\FullVehicleData\FullVehicleData;
 use Totov\Cap\Subsets\SmmtData\SmmtData;
 use Totov\Cap\Subsets\VehicleDetails\VehicleDetails;
+use Totov\Cap\Subsets\VehicleKeepers\VehicleKeepers;
 
 class Cap
 {
@@ -29,6 +30,7 @@ class Cap
     public DerivativeDetails $derivativeDetails;
     public VehicleDetails $vehicleDetails;
     public SmmtData $smmtData;
+    public VehicleKeepers $vehicleKeepers;
 
     public function __construct(protected ?string $clientId, protected ?string $secret)
     {
@@ -40,6 +42,7 @@ class Cap
         $this->derivativeDetails = new DerivativeDetails($this);
         $this->vehicleDetails = new VehicleDetails($this);
         $this->smmtData = new SmmtData($this);
+        $this->vehicleKeepers = new VehicleKeepers($this);
     }
 
     /**

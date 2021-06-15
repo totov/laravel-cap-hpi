@@ -33,27 +33,32 @@ return [
 ## Usage
 
 ```php
+use Totov\Cap\Cap;
+use Totov\Cap\FutureValuationOptions;
+use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
+use Totov\Cap\Subsets\FullVehicleData\Options;
+
 // Initialise cap with client ID and secret
 $clientId = config('cap.client_id');
 $secret = config('cap.secret');
-$cap = new \Totov\Cap\Cap($clientId, $secret);
+$cap = new Cap($clientId, $secret);
 
 // Or grab from the container which automatically grabs the config and creates a singleton
-$cap = app(\Totov\Cap\Cap::class);
+$cap = app(Cap::class);
 
 // Get current API version and status
 $version = $cap->version();
-$status = \Totov\Cap\Cap::status();
+$status = Cap::status();
 
 // Get full vehicle data by VRM
-$currentPoints = new \Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
-$futurePoints = new \Totov\Cap\FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
-$options = new \Totov\Cap\Subsets\FullVehicleData\Options($currentPoints, $futurePoints);
+$currentPoints = new CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
+$futurePoints = new FutureValuationOptions(['TradeClean'], [['mileage' => 25000, 'valuationDate' => '2021-09-19']]);
+$options = new Options($currentPoints, $futurePoints);
 
 $cap->fullVehicleData->byVrm('AB12CDE', $options);
 
 // Look up current valuation by VRM
-$options = new \Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
+$options = new CurrentValuationOptions(['TradeClean'], [['mileage' => 20000]]);
 $cap->currentValuations->byVrm('AB12CDE', $options);
 
 // Look up equipment by VRM
@@ -67,6 +72,9 @@ $cap->vehicleDetails->byVrm('AB12CDE');
 
 // Get vehicle SMMT data by VRM
 $cap->smmtData->byVrm('AB12CDE');
+
+// Get previous keepers of vehicle by VRM
+$cap->vehicleKeepers->byVrm('AB12CDE');
 ```
 
 ## Testing
