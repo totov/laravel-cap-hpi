@@ -3,8 +3,8 @@
 namespace Totov\Cap\Subsets\DerivativeHierarchy\Brands;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeRequest;
 use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeAndBrandIdRequest;
+use Totov\Cap\Subsets\DerivativeHierarchy\Brands\Requests\ByDerivativeTypeRequest;
 use Totov\Cap\Subsets\Subset;
 
 class Brands extends Subset

@@ -11,7 +11,8 @@ class ByVrmRequest extends Request
         protected string $accessToken,
         protected string $vrm,
         protected ?array $filteredCategoryIds,
-        protected ?array $filteredItemIds)
+        protected ?array $filteredItemIds
+    )
     {
         if (! $this->filteredCategoryIds && ! $this->filteredItemIds) {
             $this->method = Request::METHOD_GET;

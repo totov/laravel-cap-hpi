@@ -3,9 +3,9 @@
 namespace Totov\Cap\Subsets\TechnicalSpecification\Categories;
 
 use Totov\Cap\Exceptions\AuthorisationFailedException;
-use Totov\Cap\Subsets\TechnicalSpecification\Categories\Requests\ByDerivativeTypeRequest;
 use Totov\Cap\Subsets\Subset;
 use Totov\Cap\Subsets\TechnicalSpecification\Categories\Requests\ByDerivativeTypeAndCategoryIdRequest;
+use Totov\Cap\Subsets\TechnicalSpecification\Categories\Requests\ByDerivativeTypeRequest;
 
 class Categories extends Subset
 {

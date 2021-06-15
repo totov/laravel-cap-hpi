@@ -12,7 +12,8 @@ class ByDerivativeTypeAndCapIdRequest extends Request
         protected string $derivativeType,
         protected string $capId,
         protected ?array $filteredCategoryIds,
-        protected ?array $filteredItemIds)
+        protected ?array $filteredItemIds
+    )
     {
         if (! $this->filteredCategoryIds && ! $this->filteredItemIds) {
             $this->method = Request::METHOD_GET;
