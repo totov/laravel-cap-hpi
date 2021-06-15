@@ -33,10 +33,7 @@ return [
 ## Usage
 
 ```php
-use Totov\Cap\Cap;
-use Totov\Cap\FutureValuationOptions;
-use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;
-use Totov\Cap\Subsets\FullVehicleData\Options;
+use Totov\Cap\Cap;use Totov\Cap\Subsets\CurrentValuations\CurrentValuationOptions;use Totov\Cap\Subsets\FullVehicleData\Options;use Totov\Cap\Subsets\FutureValuations\FutureValuationOptions;
 
 // Initialise cap with client ID and secret
 $clientId = config('cap.client_id');
@@ -78,7 +75,12 @@ $cap->vehicleKeepers->byVrm('AB12CDE');
 
 // Look up DVLA data for vehicle by VRM
 $cap->dvlaData->byVrm('AB12CDE');
+
+// Perform flag check lookup by VRM
+$cap->checkFlags->byVrm('AB12CDE');
 ```
+
+Examples above use VRM, but lookups can be performed using the VIN (or a combination of VIN & VRM) as per the documentation, just use `->byVin()` or `->byVinAndVRM()` instead.
 
 ## Testing
 
