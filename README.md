@@ -130,10 +130,10 @@ $cap->technicalSpecification->categories->byDerivativeType('cars');
 $cap->technicalSpecification->categories->byDerivativeTypeAndCategoryId('cars', 8);
 
 // Get technical specs for vehicle by VRM
-$cap->technicalSpecification->byVrm('SW16UPB');
+$cap->technicalSpecification->byVrm('AB12CDE');
 
 // Get technical specs for vehicle by VRM with filter on returned items (category IDs and item IDs)
-$cap->technicalSpecification->byVrm('SW16UPB', [6, 7], [33, 34, 24]);
+$cap->technicalSpecification->byVrm('AB12CDE', [6, 7], [33, 34, 24]);
 ```
 
 Examples above use VRM, but lookups can be performed using the VIN (or a combination of VIN & VRM) as per the documentation, just use `->byVin()` or `->byVinAndVRM()` instead.
