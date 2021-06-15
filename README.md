@@ -7,6 +7,12 @@
 
 ---
 
+## Requirements
+
+- PHP ^8.0
+- PHP ext-json
+- Composer ^2.0
+
 ## Installation
 
 You can install the package via composer:
