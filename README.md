@@ -94,7 +94,7 @@ $cap->futureValuations->byVrm('AB12CDE', $options);
 
 // Get derivative image for vehicle by VRM
 $response = $cap->derivativeImages->byVrm('AB12CDE');
-if ($response->successfull()) {
+if ($response->ok()) {
     $imageContent = $response->body();
     // ...
 }
