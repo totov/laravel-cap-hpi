@@ -1,8 +1,8 @@
 # A Laravel implementation of the Cap HPI UK API - https://api.cap-hpi.co.uk/docs/index.html
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/totov/laravel-cap-hpi.svg?style=flat-square)](https://packagist.org/packages/totov/laravel-cap-hpi)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/totov/laravel-cap-hpi/run-tests?label=tests)](https://github.com/totov/laravel-cap-hpi/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/totov/laravel-cap-hpi/Check%20&%20fix%20styling?label=code%20style)](https://github.com/totov/laravel-cap-hpi/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/totov/laravel-cap-hpi/run-tests?label=tests)](https://github.com/totov/laravel-cap-hpi/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/totov/laravel-cap-hpi/Check%20&%20fix%20styling?label=code%20style)](https://github.com/totov/laravel-cap-hpi/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/totov/laravel-cap-hpi.svg?style=flat-square)](https://packagist.org/packages/totov/laravel-cap-hpi)
 
 ---
